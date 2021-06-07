@@ -427,5 +427,3 @@ df.isnull().sum().sort_values().plot(kind='bar', title= 'Missing Values (Shape: 
 plt.xlabel('Columns')
 plt.ylabel('Missing Valuses')
 
-
-# <h4><font color='#3D3C3A'>By: Nourah Alsaadan</font></h4>
