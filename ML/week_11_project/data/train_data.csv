@@ -1,0 +1,1418 @@
+price,neighborhood_name,administritive_area,city,rooms,bathrooms,sqm,elevator,bool,driver,garden
+1300000.0,Al Munsiyah,Riyadh, East Riyadh,4,5,240.0,0,0,0,0
+2500000.0,Al Murjan,Makkah, Jeddah,5,4,309.0,0,1,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,5,300.0,0,0,0,0
+1550000.0,Az Zomorod,Makkah, Jeddah,6,6,312.0,0,0,0,0
+1000000.0,Ash Shifa,Riyadh, South Riyadh,4,3,300.0,0,0,0,0
+2200000.0,An Naim,Makkah, Jeddah,5,7,330.0,0,0,0,1
+2500000.0,An Nahdah,Makkah, Jeddah,5,7,360.0,1,1,0,0
+2000000.0,Al Yasmin,Riyadh, North Riyadh,5,4,300.0,0,0,0,0
+950000.0,Ar Riyadh,Makkah, Jeddah,3,3,312.0,1,0,0,0
+950000.0,Ar Riyadh,Makkah, Jeddah,3,3,312.0,1,0,0,0
+1300000.0,Al Munsiyah,Riyadh, East Riyadh,7,6,260.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,5,7,360.0,0,0,0,0
+880000.0,Al Ghoroub,Riyadh, West Riyadh,5,7,205.0,0,0,0,0
+1950000.0,Laban,Riyadh, West Riyadh,5,5,450.0,0,0,1,0
+1450000.0,An Nuzhah,Makkah, Jeddah,6,7,460.0,1,0,1,0
+1070000.0,Ar Rimal,Riyadh, East Riyadh,5,4,288.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,3,309.0,0,0,0,0
+1450000.0,Al Awali,Riyadh, Al Riyadh,3,4,450.0,0,0,0,0
+1500000.0,Al Ghoroub,Riyadh, West Riyadh,6,6,500.0,0,0,0,0
+1600000.0,Al Hamadaniyah,Makkah, Jeddah,5,7,347.0,0,0,1,1
+2400000.0,Al Qirawan,Riyadh, North Riyadh,4,6,300.0,1,0,1,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,4,5,275.0,0,0,0,0
+2950000.0,Al Muhammadiyah,Riyadh, West Riyadh,4,5,324.0,1,0,1,0
+1400000.0,Al Ghoroub,Riyadh, West Riyadh,5,5,400.0,0,0,0,0
+2000000.0,Al Arid,Riyadh, North Riyadh,5,6,400.0,0,0,1,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,3,300.0,0,0,0,0
+1150000.0,Masharef,Makkah, Jeddah,4,5,360.0,0,0,1,1
+820000.0,Ash Shifa,Riyadh, South Riyadh,3,3,440.0,0,0,0,0
+860000.0,Badr,Riyadh, South Riyadh,4,5,372.0,0,0,0,0
+1800000.0,Ar Rimal,Riyadh, East Riyadh,4,5,500.0,0,0,0,0
+1700000.0,Al Yaqoot,Makkah, Jeddah,7,7,542.0,0,0,0,0
+760000.0,Badr,Riyadh, South Riyadh,3,5,441.0,0,0,0,0
+1290000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,4,5,228.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+1290000.0,Al Yaqoot,Makkah, Jeddah,4,5,228.0,0,0,0,0
+1850000.0,Al Arid,Riyadh, North Riyadh,5,7,300.0,1,0,1,0
+1500000.0,Al Arid,Riyadh, North Riyadh,4,6,225.0,1,0,1,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+4000000.0,Taibah,Makkah, Jeddah,5,7,895.0,0,1,0,0
+1550000.0,Al Arid,Riyadh, North Riyadh,4,7,225.0,1,0,1,0
+6500000.0,An Naim,Makkah, Jeddah,7,7,660.0,0,2,0,1
+1850000.0,Al Arid,Riyadh, North Riyadh,5,6,300.0,1,0,1,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,4,240.0,0,0,0,0
+3500000.0,Al Amir Fawaz Ash Shamaly,Makkah, Jeddah,5,5,900.0,0,0,0,0
+1200000.0,Ar Rahmanyah,Makkah, Jeddah,5,5,300.0,0,0,0,0
+2900000.0,Al Masarah,Makkah, Jeddah,5,5,330.0,0,0,0,0
+1050000.0,Al Manarat,Makkah, Jeddah,5,3,288.0,0,0,0,0
+1280000.0,Ar Rahmanyah,Makkah, Jeddah,4,5,300.0,0,0,0,0
+1300000.0,As Salhiyah,Makkah, Jeddah,4,5,300.0,1,1,1,0
+950000.0,Tuwaiq,Riyadh, West Riyadh,5,6,225.0,0,0,0,0
+770.0,Al Burj,Riyadh, Al Kharj,4,4,364.0,0,0,0,0
+1350000.0,Al Mahdiyah,Riyadh, West Riyadh,3,4,431.0,0,0,0,0
+1450000.0,Al Arid,Riyadh, North Riyadh,5,4,225.0,1,0,1,0
+1300000.0,Al Mahdiyah,Riyadh, West Riyadh,3,4,430.0,0,0,0,0
+1620000.0,Ar Rimal,Riyadh, East Riyadh,3,3,450.0,0,0,0,0
+1450000.0,As Swaryee,Makkah, Jeddah,4,5,300.0,1,0,0,0
+1500000.0,Az Zomorod,Makkah, Jeddah,7,6,312.0,1,0,0,0
+950000.0,As Salhiyah,Makkah, Jeddah,2,3,330.0,0,0,0,0
+1000000.0,As Salhiyah,Makkah, Jeddah,4,5,275.0,0,0,0,0
+1450000.0,Az Zomorod,Makkah, Jeddah,2,7,375.0,0,0,0,0
+1500000.0,As Salhiyah,Makkah, Jeddah,4,4,459.0,0,0,0,0
+2700000.0,Ash Shifa,Riyadh, South Riyadh,7,7,720.0,0,0,0,0
+1600000.0,Qurtubah,Riyadh, East Riyadh,4,7,375.0,0,0,0,0
+1200000.0,Al Hazm,Riyadh, South Riyadh,4,4,360.0,0,0,0,0
+880000.0,Badr,Riyadh, South Riyadh,5,5,227.0,0,0,0,0
+980000.0,Tuwaiq,Riyadh, West Riyadh,4,5,244.0,0,0,0,0
+4600000.0,Al Basatin,Makkah, Jeddah,5,6,410.0,1,1,0,0
+2250000.0,An Narjis,Riyadh, North Riyadh,6,6,480.0,0,0,0,0
+1680000.0,Al Qadisiyah,Riyadh, East Riyadh,4,4,375.0,0,0,0,0
+1190000.0,Tuwaiq,Riyadh, West Riyadh,6,6,364.0,0,0,0,0
+1180000.0,Ar Rahmanyah,Makkah, Jeddah,5,5,312.0,0,0,0,0
+1600000.0,Ar Rahmanyah,Makkah, Jeddah,5,5,375.0,0,0,0,0
+1250000.0,Al Hamadaniyah,Makkah, Jeddah,3,5,300.0,1,0,0,1
+1400000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,300.0,0,0,1,0
+160000000.0,Al Hazm,Riyadh, South Riyadh,3,2,312.0,0,0,0,0
+1450000.0,As Swaryee,Makkah, Jeddah,6,7,312.0,0,1,0,0
+1120000.0,Al Qadisiyah,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+1500000.0,Al Munsiyah,Riyadh, East Riyadh,4,3,288.0,0,0,0,0
+1650000.0,Al Faiha,Makkah, Jeddah,3,4,335.0,0,1,1,0
+1550000.0,Al Yaqoot,Makkah, Jeddah,6,6,330.0,1,1,0,0
+970000.0,Ar Rimal,Riyadh, East Riyadh,4,4,220.0,0,0,0,0
+1100000.0,As Salhiyah,Makkah, Jeddah,4,4,300.0,1,0,1,0
+1250000.0,Ash Sheraa,Makkah, Jeddah,7,6,250.0,0,1,0,0
+1150000.0,As Salhiyah,Makkah, Jeddah,4,4,300.0,1,0,1,0
+1300000.0,Al Hamadaniyah,Makkah, Jeddah,6,6,300.0,1,0,1,1
+1150000.0,Ar Rimal,Riyadh, East Riyadh,4,3,290.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,4,222.0,0,0,0,0
+1350000.0,Al Qadisiyah,Riyadh, East Riyadh,5,3,288.0,0,0,0,0
+1480000.0,Al Arid,Riyadh, North Riyadh,5,4,308.0,0,0,0,0
+1600000.0,Al Awali,Riyadh, Al Riyadh,4,4,450.0,0,0,0,0
+4500000.0,Hittin,Riyadh, North Riyadh,5,4,438.0,2,1,0,0
+57000000.0,Az Zahra,Makkah, Jeddah,7,7,5450.0,0,1,0,1
+8000000.0,Al Muhammadiyah,Makkah, Jeddah,5,7,900.0,0,0,0,0
+1300000.0,Ar Rahmanyah,Makkah, Jeddah,6,5,300.0,2,1,0,0
+5500000.0,Al Andalus,Makkah, Jeddah,5,6,420.0,1,2,0,1
+850000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,3,336.0,0,0,0,0
+3000000.0,Abhur Al Janubiyah,Makkah, Jeddah,4,6,280.0,1,1,0,0
+1300000.0,Al Yaqoot,Makkah, Jeddah,4,5,262.0,1,1,0,0
+880000.0,Badr,Riyadh, South Riyadh,4,5,225.0,0,0,0,0
+800000.0,Taibah,Riyadh, South Riyadh,3,4,327.0,0,0,0,0
+1050000.0,Uqaz,Riyadh, South Riyadh,6,3,373.0,0,0,0,0
+3650000.0,Ar Rabi,Riyadh, North Riyadh,4,7,425.0,1,1,1,1
+1000000.0,Badr,Riyadh, South Riyadh,4,5,315.0,0,0,0,0
+5800000.0,Irqah,Riyadh, West Riyadh,3,6,300.0,0,0,1,0
+1600000.0,Ar Rabi,Riyadh, North Riyadh,4,7,220.0,0,0,0,0
+1100000.0,Al Mahdiyah,Riyadh, West Riyadh,2,5,200.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,4,324.0,0,0,0,0
+1350000.0,Al Loaloa,Makkah, Jeddah,6,6,300.0,1,0,0,0
+3000000.0,Abhur Al Janubiyah,Makkah, Jeddah,4,6,280.0,1,1,0,0
+1300000.0,Al Yaqoot,Makkah, Jeddah,4,5,262.0,1,1,0,0
+1800000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,7,7,300.0,1,0,0,0
+1850000.0,Taibah,Makkah, Jeddah,4,4,300.0,1,0,1,1
+1200000.0,An Nasim,Makkah, Jeddah,7,6,300.0,0,0,0,0
+1900000.0,Al Arid,Riyadh, North Riyadh,4,4,420.0,1,0,0,0
+2300000.0,An Narjis,Riyadh, North Riyadh,4,6,412.0,0,0,1,0
+1230000.0,As Swaryee,Makkah, Jeddah,5,4,200.0,0,0,0,0
+1600000.0,Al Yaqoot,Makkah, Jeddah,6,7,457.0,1,0,0,0
+11500000.0,Al Malqa,Riyadh, North Riyadh,6,7,1500.0,0,1,0,0
+4200000.0,Al Malqa,Riyadh, North Riyadh,7,7,600.0,1,0,0,1
+1800000.0,An Narjis,Riyadh, North Riyadh,4,4,225.0,1,0,0,0
+4200000.0,Al Malqa,Riyadh, North Riyadh,7,7,600.0,1,0,0,1
+1800000.0,An Narjis,Riyadh, North Riyadh,4,4,225.0,1,0,0,0
+1350000.0,Al Lulu,, Al Khubar,7,7,500.0,0,0,0,1
+1200000.0,Al Mahdiyah,Riyadh, West Riyadh,5,5,400.0,0,0,0,0
+850000.0,Uqaz,Riyadh, South Riyadh,4,6,250.0,0,0,0,0
+1180000.0,Uqaz,Riyadh, South Riyadh,3,5,375.0,0,0,0,0
+1200000.0,Al Yaqoot,Makkah, Jeddah,5,5,230.0,0,0,0,0
+1800000.0,Ash Sheraa,Makkah, Jeddah,5,4,312.0,1,0,0,0
+2400000.0,Abhur Al Janubiyah,Makkah, Jeddah,7,7,430.0,1,1,0,0
+2100000.0,Ash Shati,Makkah, Jeddah,3,5,275.0,0,0,0,0
+2400000.0,Al Faiha,Makkah, Jeddah,3,3,243.0,0,0,0,0
+6000000.0,Al Malqa,Riyadh, North Riyadh,6,7,700.0,1,1,0,0
+1000000.0,Al Mahdiyah,Riyadh, West Riyadh,4,4,200.0,0,0,0,0
+910000.0,Badr,Riyadh, South Riyadh,5,6,236.0,0,0,0,0
+2500000.0,Ar Rimal,Riyadh, East Riyadh,7,4,750.0,0,0,1,0
+1300000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,6,262.0,1,0,0,0
+2200000.0,Ash Sheraa,Makkah, Jeddah,5,7,330.0,1,1,1,0
+820000.0,Dirab,Riyadh, South Riyadh,5,6,250.0,0,0,0,0
+2500000.0,Al Muhammadiyah,Makkah, Jeddah,7,7,500.0,0,0,0,0
+1600000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,7,7,300.0,1,0,0,0
+950000.0,Al Janadriyah,Riyadh, East Riyadh,4,4,312.0,0,0,0,0
+3700000.0,Irqah,Riyadh, West Riyadh,5,7,525.0,1,0,1,0
+1150000.0,As Salhiyah,Makkah, Jeddah,4,5,300.0,1,0,0,0
+1250000.0,Uqaz,Riyadh, South Riyadh,4,7,420.0,1,0,0,0
+1100000.0,As Swaryee,Makkah, Jeddah,5,6,250.0,1,0,1,0
+1600000.0,Al Yaqoot,Makkah, Jeddah,7,7,395.0,2,1,0,0
+1200000.0,Ar Rahmanyah,Makkah, Jeddah,6,6,300.0,1,0,0,0
+1050000.0,Al Loaloa,Makkah, Jeddah,4,6,200.0,0,0,1,0
+850000.0,Taibah,Makkah, Jeddah,3,3,300.0,1,0,0,0
+1800000.0,Al Arid,Riyadh, North Riyadh,4,5,395.0,0,0,1,0
+2500000.0,Al Yasmin,Riyadh, North Riyadh,4,7,310.0,1,1,1,0
+2500000.0,Al Yasmin,Riyadh, North Riyadh,4,4,314.0,1,0,1,1
+3500000.0,An Narjis,Riyadh, North Riyadh,7,7,500.0,1,2,0,0
+950000.0,Ar Rimal,Riyadh, East Riyadh,5,5,216.0,0,0,0,0
+6000000.0,Ar Rabi,Riyadh, North Riyadh,6,7,1050.0,1,1,0,0
+999999.0,Al Asalah,Makkah, Jeddah,6,6,300.0,0,0,0,0
+950000.0,Ar Rimal,Riyadh, East Riyadh,4,4,250.0,0,0,0,0
+1199999.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,4,280.0,0,0,0,0
+1100000.0,Ad Dar Al Baida,Riyadh, South Riyadh,6,4,333.0,0,0,0,0
+810000.0,Al Hazm,Riyadh, South Riyadh,5,5,250.0,0,0,0,0
+1950000.0,Al Amanah,Riyadh, North Riyadh,4,4,400.0,1,1,0,0
+1300000.0,Az Zomorod,Makkah, Jeddah,4,4,312.0,0,0,0,0
+1299000.0,Al Asalah,Makkah, Jeddah,7,6,600.0,0,0,0,0
+1500000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,5,262.0,1,1,1,1
+1800000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,6,288.0,2,1,0,0
+1350000.0,Al Frosyah,Makkah, Jeddah,5,6,300.0,1,1,0,0
+1350000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,5,200.0,1,1,1,0
+1800000.0,Ash Sheraa,Makkah, Jeddah,6,6,320.0,1,0,0,0
+1100000.0,Al Mahdiyah,Riyadh, West Riyadh,3,5,200.0,0,0,0,0
+1299000.0,Al Asalah,Makkah, Jeddah,7,6,600.0,0,0,0,0
+1500000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,5,262.0,1,1,1,1
+1800000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,6,288.0,2,1,0,0
+5700000.0,Al Malqa,Riyadh, North Riyadh,6,7,700.0,1,1,0,0
+900000.0,Taibah,Riyadh, South Riyadh,5,6,299.0,0,0,0,0
+1850000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,7,312.0,1,3,0,0
+1350000.0,Al Frosyah,Makkah, Jeddah,5,6,300.0,1,1,0,0
+920000.0,Uqaz,Riyadh, South Riyadh,3,5,390.0,0,0,0,0
+1800000.0,Ash Sheraa,Makkah, Jeddah,6,6,320.0,1,0,0,0
+1350000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,5,200.0,1,1,1,0
+1300000.0,Al Yaqoot,Makkah, Jeddah,3,6,275.0,1,0,0,0
+4000000.0,Ash Sheraa,Makkah, Jeddah,7,7,616.0,1,1,0,0
+1050000.0,Az Zomorod,Makkah, Jeddah,3,3,312.0,1,0,0,0
+1750000.0,Al Hamadaniyah,Makkah, Jeddah,7,7,868.0,0,1,1,0
+2500000.0,Al Munsiyah,Riyadh, East Riyadh,5,6,345.0,0,2,1,0
+5500000.0,Al Yasmin,Riyadh, North Riyadh,5,5,1150.0,0,1,0,0
+1300000.0,Al Yaqoot,Makkah, Jeddah,4,3,250.0,1,1,1,0
+950000.0,Al Frosyah,Makkah, Jeddah,3,3,300.0,1,0,0,0
+2950000.0,Al Muhammadiyah,Riyadh, West Riyadh,4,7,324.0,1,0,1,0
+1750000.0,Al Yaqoot,Makkah, Jeddah,5,5,312.0,1,2,0,0
+1050000.0,Az Zomorod,Makkah, Jeddah,4,3,312.0,2,0,0,0
+1000000.0,As Salhiyah,Makkah, Jeddah,6,4,300.0,1,0,0,0
+1600000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,6,7,312.0,1,1,1,0
+1150000.0,Ar Rimal,Riyadh, East Riyadh,4,3,235.0,0,0,0,0
+1550000.0,Al Awali,Riyadh, Al Riyadh,4,4,450.0,0,0,0,0
+990000.0,Al Janadriyah,Riyadh, East Riyadh,3,3,312.0,0,0,0,0
+2200000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,7,330.0,1,1,1,0
+5500000.0,Irqah,Riyadh, West Riyadh,7,7,1200.0,0,1,0,1
+950000.0,Uqaz,Riyadh, South Riyadh,3,4,390.0,0,0,0,0
+4850000.0,Al Buhirat,Makkah, Jeddah,4,3,800.0,0,0,0,0
+2100000.0,Qurtubah,Riyadh, East Riyadh,5,5,625.0,0,0,0,0
+1500000.0,Al Manar,Riyadh, East Riyadh,7,7,550.0,0,0,1,0
+1050000.0,Al Khomrah,Makkah, Jeddah,6,4,400.0,0,0,0,0
+1800000.0,Irqah,Riyadh, West Riyadh,7,7,370.0,0,0,1,0
+850000.0,Al Amwaj,, Al Khubar,4,6,350.0,0,0,0,0
+900000.0,Al Lulu,, Al Khubar,4,5,300.0,0,0,0,0
+2350000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,6,7,450.0,1,1,1,0
+1950000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,6,7,330.0,1,1,1,0
+2000000.0,Al Aqiq,Riyadh, North Riyadh,7,7,575.0,0,0,0,0
+2700000.0,Al Yasmin,Riyadh, North Riyadh,4,4,375.0,1,0,1,0
+8500000.0,Al Muhammadiyah,Riyadh, West Riyadh,5,7,1250.0,0,1,1,1
+1650000.0,Al Manar,Riyadh, East Riyadh,5,4,900.0,0,0,0,0
+1150000.0,Al Loaloa,Makkah, Jeddah,4,6,200.0,0,0,0,0
+2800000.0,An Nahdah,Riyadh, East Riyadh,5,4,900.0,0,0,0,0
+1320000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,6,200.0,1,1,1,0
+1900000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,7,322.0,1,1,1,0
+5000000.0,Al Muhammadiyah,Riyadh, West Riyadh,7,7,900.0,0,1,1,0
+1500000.0,Al Yarmuk,Riyadh, East Riyadh,4,6,278.0,0,0,0,0
+1900000.0,Al Hamra,, Ad Dammam,4,4,500.0,0,0,0,0
+3300000.0,Ash Shati Ash Sharqi,, Ad Dammam,5,5,750.0,0,1,0,0
+2000000.0,Al Malqa,Riyadh, North Riyadh,7,4,300.0,0,1,0,1
+1500000.0,Al Idhaah North,Riyadh, Afif,4,6,450.0,0,1,0,0
+1550000.0,Al Hamadaniyah,Makkah, Jeddah,2,7,450.0,0,0,0,0
+1070000.0,Ar Rimal,Riyadh, East Riyadh,4,3,375.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,3,4,367.0,0,0,0,0
+1150000.0,Al Qadisiyah,Riyadh, East Riyadh,5,5,250.0,0,0,0,0
+1270000.0,Al Munsiyah,Riyadh, East Riyadh,6,6,240.0,0,0,0,0
+1350000.0,Az Zomorod,Makkah, Jeddah,7,7,312.0,0,0,0,1
+890000.0,Al Hazm,Riyadh, South Riyadh,6,6,250.0,0,0,0,0
+920000.0,Al Hazm,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+1250000.0,Al Yaqoot,Makkah, Jeddah,5,4,250.0,1,0,1,0
+1135000.0,Ar Rimal,Riyadh, East Riyadh,3,2,216.0,0,0,0,0
+1280000.0,Tuwaiq,Riyadh, West Riyadh,4,5,300.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+1140000.0,Al Hazm,Riyadh, South Riyadh,4,5,300.0,0,0,0,0
+1130000.0,Dahiat Namar,Riyadh, West Riyadh,6,7,300.0,0,1,0,0
+670000.0,An Nuzhah,Makkah, Jeddah,2,3,238.0,0,0,1,1
+1030000.0,Al Hazm,Riyadh, South Riyadh,3,4,250.0,0,0,0,0
+1000000.0,Al Hazm,Riyadh, South Riyadh,6,6,300.0,0,0,0,0
+2500000.0,Al Amwaj,Makkah, Jeddah,6,7,375.0,1,1,1,0
+850000.0,Badr,Riyadh, South Riyadh,5,6,300.0,0,0,0,0
+1100000.0,Tuwaiq,Riyadh, West Riyadh,3,4,375.0,0,0,0,0
+980000.0,Al Hazm,Riyadh, South Riyadh,6,5,250.0,0,0,0,0
+1150000.0,Al Janadriyah,Riyadh, East Riyadh,5,5,280.0,0,0,0,0
+1350000.0,Az Zomorod,Makkah, Jeddah,7,7,312.0,0,0,0,1
+950000.0,Uhud,Riyadh, South Riyadh,4,6,250.0,0,0,0,0
+890000.0,Ad Dar Al Baida,Riyadh, South Riyadh,4,6,230.0,0,0,0,0
+1450000.0,Al Yaqoot,Makkah, Jeddah,5,6,250.0,1,0,1,0
+2200000.0,An Narjis,Riyadh, North Riyadh,5,6,360.0,0,0,0,0
+870000.0,Al Ghoroub,Riyadh, West Riyadh,5,5,205.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+1550000.0,Al Yarmuk,Riyadh, East Riyadh,6,7,250.0,0,0,0,0
+950000.0,Al Hazm,Riyadh, South Riyadh,4,3,250.0,0,0,0,0
+1300000.0,Al Yaqoot,Makkah, Jeddah,5,5,231.0,1,0,1,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+2500000.0,Al Muhammadiyah,Riyadh, West Riyadh,4,4,402.0,0,0,1,0
+1050000.0,Dhahrat Namar,Riyadh, West Riyadh,5,7,300.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,3,360.0,0,0,0,0
+1140000.0,Al Hazm,Riyadh, South Riyadh,5,7,300.0,0,0,0,0
+950000.0,Dirab,Riyadh, South Riyadh,6,6,250.0,0,0,0,0
+1100000.0,Uqaz,Riyadh, South Riyadh,5,6,327.0,0,0,0,0
+1100000.0,Uqaz,Riyadh, South Riyadh,6,5,337.0,0,0,0,0
+890000.0,Al Hazm,Riyadh, South Riyadh,7,7,250.0,0,0,0,0
+1150000.0,Al Qadisiyah,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+850000.0,Al Hazm,Riyadh, South Riyadh,3,3,312.0,0,0,0,0
+1000000.0,Al Hazm,Riyadh, South Riyadh,5,7,262.0,0,0,0,0
+1170000.0,Tuwaiq,Riyadh, West Riyadh,5,7,300.0,0,0,0,0
+1715000.0,Al Yaqoot,Makkah, Jeddah,5,7,375.0,0,0,0,1
+1500000.0,Ar Rimal,Riyadh, East Riyadh,4,2,332.0,0,0,1,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,7,6,275.0,0,0,0,0
+1300000.0,Al Qadisiyah,Riyadh, East Riyadh,4,5,312.0,0,0,0,0
+1750000.0,An Narjis,Riyadh, North Riyadh,4,4,280.0,1,0,1,0
+1100000.0,Tuwaiq,Riyadh, West Riyadh,3,5,375.0,0,0,0,0
+1130000.0,Ar Rimal,Riyadh, East Riyadh,5,6,281.0,0,0,0,0
+920000.0,Al Hazm,Riyadh, South Riyadh,3,5,360.0,0,0,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,6,5,300.0,0,0,0,0
+850000.0,Badr,Riyadh, South Riyadh,5,6,300.0,0,0,0,0
+1400000.0,Al Yaqoot,Makkah, Jeddah,6,6,290.0,0,1,0,1
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,5,300.0,0,0,0,0
+1100000.0,Dahiat Namar,Riyadh, West Riyadh,3,7,270.0,0,0,0,0
+2400000.0,Al Quds,Riyadh, East Riyadh,3,4,375.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,5,275.0,0,0,0,0
+1000000.0,Uqaz,Riyadh, South Riyadh,5,6,327.0,1,0,0,0
+1650000.0,An Narjis,Riyadh, North Riyadh,5,5,276.0,1,0,1,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,5,6,250.0,0,0,0,0
+1360000.0,Al Qadisiyah,Riyadh, East Riyadh,6,6,300.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,5,5,280.0,0,0,0,0
+1600000.0,Ar Rimal,Riyadh, East Riyadh,5,3,318.0,0,0,1,0
+2200000.0,An Nahdah,Makkah, Jeddah,4,7,330.0,0,0,0,0
+880000.0,Dirab,Riyadh, South Riyadh,6,6,250.0,0,0,0,0
+850000.0,Badr,Riyadh, South Riyadh,5,6,300.0,0,0,0,0
+1450000.0,Al Yaqoot,Makkah, Jeddah,2,5,250.0,0,1,0,0
+850000.0,Dirab,Riyadh, South Riyadh,5,6,230.0,0,0,0,0
+820000.0,Al Hazm,Riyadh, South Riyadh,5,7,200.0,0,0,0,0
+1000000.0,Uqaz,Riyadh, South Riyadh,5,6,315.0,0,0,0,0
+1420000.0,Ar Rimal,Riyadh, East Riyadh,4,3,286.0,0,0,1,0
+1050000.0,Al Maizilah,Riyadh, East Riyadh,4,5,200.0,0,0,0,0
+1320000.0,Al Maizilah,Riyadh, East Riyadh,5,4,275.0,0,0,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+1680000.0,Al Qadisiyah,Riyadh, East Riyadh,5,5,375.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+820000.0,Badr,Riyadh, South Riyadh,6,6,350.0,0,0,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,4,3,287.0,0,0,0,0
+870000.0,Al Ghoroub,Riyadh, West Riyadh,4,5,205.0,0,0,0,0
+1450000.0,Tuwaiq,Riyadh, West Riyadh,5,5,460.0,0,0,1,0
+1550000.0,An Nahdah,Riyadh, East Riyadh,4,2,375.0,0,0,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,5,6,309.0,0,0,0,0
+1070000.0,Ar Rimal,Riyadh, East Riyadh,5,4,288.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,4,300.0,0,0,0,0
+1350000.0,Al Mahdiyah,Riyadh, West Riyadh,5,5,200.0,0,0,0,0
+850000.0,Badr,Riyadh, South Riyadh,6,6,250.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,3,6,300.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,4,240.0,0,0,0,0
+950000.0,Uqaz,Riyadh, South Riyadh,3,5,350.0,0,0,0,0
+1150000.0,Badr,Riyadh, South Riyadh,3,4,372.0,0,0,0,0
+1130000.0,Ash Sharq,Riyadh, East Riyadh,3,3,432.0,0,0,0,0
+1050000.0,Al Hazm,Riyadh, South Riyadh,5,5,264.0,0,0,0,0
+1700000.0,Al Yarmuk,Riyadh, East Riyadh,4,3,300.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,4,300.0,0,0,0,0
+1080000.0,Al Ghoroub,Riyadh, West Riyadh,4,5,238.0,0,0,0,0
+880000.0,Tuwaiq,Riyadh, West Riyadh,5,5,205.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,6,387.0,0,0,0,0
+1300000.0,Al Hamadaniyah,Makkah, Jeddah,6,7,300.0,1,1,1,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,6,260.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,7,300.0,0,0,0,0
+930000.0,Tuwaiq,Riyadh, West Riyadh,5,5,200.0,0,0,0,0
+1070000.0,Ar Rimal,Riyadh, East Riyadh,5,5,288.0,0,0,0,0
+820000.0,Badr,Riyadh, South Riyadh,6,6,350.0,0,0,0,0
+1200000.0,Al Ghoroub,Riyadh, West Riyadh,4,5,280.0,0,0,0,0
+870000.0,Al Ghoroub,Riyadh, West Riyadh,4,5,205.0,0,0,0,0
+2950000.0,Al Basatin,Makkah, Jeddah,7,6,312.0,0,1,1,0
+2000500.0,Ash Shati,Makkah, Jeddah,5,6,274.0,0,0,1,0
+2500000.0,An Nahdah,Makkah, Jeddah,5,7,360.0,0,0,0,0
+1700000.0,Al Quds,Riyadh, East Riyadh,4,3,262.0,0,0,0,0
+3400000.0,As Safa,Makkah, Jeddah,7,6,890.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,3,279.0,1,0,1,0
+1100000.0,Uqaz,Riyadh, South Riyadh,6,6,300.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,7,6,250.0,0,0,0,0
+2400000.0,An Narjis,Riyadh, North Riyadh,6,5,378.0,1,0,0,0
+950000.0,Dirab,Riyadh, South Riyadh,4,5,250.0,0,0,0,0
+1600000.0,Al Munsiyah,Riyadh, East Riyadh,4,6,288.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,5,6,350.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,3,287.0,0,0,0,0
+800000.0,Taibah,Riyadh, South Riyadh,5,5,207.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,5,4,275.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,6,6,376.0,0,0,0,0
+1590000.0,Al Munsiyah,Riyadh, East Riyadh,4,5,288.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,2,286.0,0,0,0,0
+1450000.0,Al Awali,Riyadh, Al Riyadh,4,5,450.0,0,0,0,0
+1500000.0,Al Yarmuk,Riyadh, East Riyadh,6,6,250.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,4,243.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,6,6,250.0,0,0,0,0
+920000.0,As Suwaidi Al Gharbi,Riyadh, West Riyadh,5,5,200.0,0,0,0,0
+810000.0,Taibah,Riyadh, South Riyadh,5,5,216.0,0,0,0,0
+950000.0,Uqaz,Riyadh, South Riyadh,5,5,300.0,0,0,0,0
+880000.0,Uqaz,Riyadh, South Riyadh,5,5,360.0,0,0,0,0
+1300000.0,Al Munsiyah,Riyadh, East Riyadh,4,5,240.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,5,5,268.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,3,292.0,0,0,0,0
+1050000.0,Al Janadriyah,Riyadh, East Riyadh,4,4,350.0,0,0,0,0
+1650000.0,Ar Rimal,Riyadh, East Riyadh,3,3,432.0,0,0,0,0
+1150000.0,Badr,Riyadh, South Riyadh,3,3,372.0,0,0,0,0
+1120000.0,Ar Rimal,Riyadh, East Riyadh,3,2,252.0,0,0,0,0
+790000.0,Taibah,Riyadh, South Riyadh,4,5,216.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,4,220.0,0,0,0,0
+790000.0,Taibah,Riyadh, South Riyadh,4,5,207.0,0,0,0,0
+1200000.0,Az Zomorod,Makkah, Jeddah,7,4,480.0,0,1,0,0
+1050000.0,Al Maizilah,Riyadh, East Riyadh,4,4,200.0,0,0,0,0
+1850000.0,Az Zomorod,Makkah, Jeddah,6,7,375.0,1,0,1,0
+1250000.0,Al Yaqoot,Makkah, Jeddah,4,5,262.0,0,0,0,1
+1650000.0,Al Quds,Riyadh, East Riyadh,4,3,262.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,3,360.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,6,300.0,0,0,0,0
+1000000.0,Uqaz,Riyadh, South Riyadh,6,5,315.0,1,0,0,0
+930000.0,Tuwaiq,Riyadh, West Riyadh,5,6,200.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,6,387.0,0,0,0,0
+1150008.0,Badr,Riyadh, South Riyadh,3,5,406.0,0,0,0,0
+1300000.0,Al Yaqoot,Makkah, Jeddah,5,6,262.0,0,0,0,0
+1500000.0,Ar Rimal,Riyadh, East Riyadh,4,4,367.0,0,0,0,0
+1400000.0,Ar Rimal,Riyadh, East Riyadh,3,2,360.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,5,220.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,3,6,216.0,0,0,0,0
+1850000.0,Ar Rimal,Riyadh, East Riyadh,4,4,450.0,0,0,0,0
+1700000.0,Al Loaloa,Makkah, Jeddah,7,7,540.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,7,6,250.0,0,0,0,0
+1120000.0,Tuwaiq,Riyadh, West Riyadh,5,5,300.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,3,216.0,0,0,0,0
+1000000.0,Al Hazm,Riyadh, South Riyadh,4,5,262.0,0,0,0,0
+1600000.0,Ar Rimal,Riyadh, East Riyadh,4,4,432.0,0,0,0,0
+950000.0,Al Awali,Riyadh, Al Riyadh,5,5,200.0,0,0,0,0
+1320000.0,Al Maizilah,Riyadh, East Riyadh,5,4,275.0,0,0,0,0
+1350000.0,Al Qadisiyah,Riyadh, East Riyadh,6,6,300.0,1,0,0,0
+1150000.0,Badr,Riyadh, South Riyadh,3,4,406.0,0,0,0,0
+2000500.0,Ash Shati,Makkah, Jeddah,6,6,274.0,0,0,1,0
+1380000.0,Al Ghoroub,Riyadh, West Riyadh,7,7,400.0,0,0,0,0
+1270000.0,Al Munsiyah,Riyadh, East Riyadh,6,6,240.0,0,0,0,0
+890000.0,Badr,Riyadh, South Riyadh,5,5,225.0,0,0,0,0
+1260000.0,Al Maizilah,Riyadh, East Riyadh,5,5,275.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,5,5,221.0,0,0,0,0
+880000.0,Al Hazm,Riyadh, South Riyadh,3,5,250.0,0,0,0,0
+950000.0,Al Hazm,Riyadh, South Riyadh,4,5,250.0,0,0,0,0
+1300000.0,Tuwaiq,Riyadh, West Riyadh,4,5,300.0,0,0,0,0
+1200000.0,Al Faisaliyah,Makkah, Jeddah,7,5,400.0,0,0,0,0
+2700000.0,Ishbiliya,, Al Khubar,4,3,500.0,0,0,1,0
+2350000.0,Ishbiliya,, Al Khubar,4,3,590.0,0,0,1,0
+2650000.0,Ghirnatah,Riyadh, East Riyadh,4,3,375.0,0,0,0,0
+1000000.0,Al Maizilah,Riyadh, East Riyadh,3,2,200.0,0,0,0,0
+1500000.0,Al Yaqoot,Makkah, Jeddah,6,6,312.0,0,0,0,0
+1400000.0,Az Zomorod,Makkah, Jeddah,4,7,312.0,1,0,0,0
+1650000.0,Al Munsiyah,Riyadh, East Riyadh,5,4,302.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,4,6,350.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+1500000.0,Ar Rimal,Riyadh, East Riyadh,4,6,344.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,5,300.0,0,0,0,0
+1430000.0,Dhahrat Al Badiah,Riyadh, West Riyadh,7,7,775.0,0,0,1,0
+1450000.0,Ar Rimal,Riyadh, East Riyadh,4,4,396.0,0,0,0,0
+1100000.0,Al Ghoroub,Riyadh, West Riyadh,3,4,450.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,3,387.0,0,0,0,0
+920000.0,Tuwaiq,Riyadh, West Riyadh,3,3,360.0,0,0,0,0
+1100000.0,Al Ghoroub,Riyadh, West Riyadh,3,4,450.0,0,0,0,0
+1400000.0,Ar Rimal,Riyadh, East Riyadh,4,4,360.0,0,0,0,0
+1150000.0,Tuwaiq,Riyadh, West Riyadh,5,5,300.0,0,0,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,5,7,310.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,5,7,350.0,0,0,0,0
+1000000.0,Al Musa Subdivision,, Khamis Mushayt,4,5,375.0,0,0,0,0
+2700000.0,Al Izdihar,Riyadh, North Riyadh,6,5,840.0,0,0,0,0
+1100000.0,Al Frosyah,Makkah, Jeddah,3,4,450.0,1,0,1,0
+650000.0,Badr,Riyadh, South Riyadh,3,4,432.0,0,0,0,0
+950000.0,Dirab,Riyadh, South Riyadh,4,6,250.0,0,0,0,0
+2300000.0,An Narjis,Riyadh, North Riyadh,6,5,312.0,1,0,0,1
+1400000.0,Az Zomorod,Makkah, Jeddah,3,6,312.0,1,0,0,0
+2900000.0,Al Masarah,Makkah, Jeddah,5,5,330.0,0,0,0,0
+1050000.0,Al Maizilah,Riyadh, East Riyadh,4,4,200.0,0,0,0,0
+1550000.0,As Sahafah,Riyadh, North Riyadh,5,7,325.0,0,0,0,0
+950000.0,Al Hazm,Riyadh, South Riyadh,4,5,250.0,0,0,0,0
+3300000.0,Al Basatin,Makkah, Jeddah,6,6,280.0,0,0,0,0
+1260000.0,Al Maizilah,Riyadh, East Riyadh,5,5,275.0,0,0,0,0
+950000.0,Al Ghoroub,Riyadh, West Riyadh,4,5,360.0,0,0,0,0
+1500000.0,Az Zomorod,Makkah, Jeddah,6,7,312.0,1,0,1,0
+1100000.0,Al Ghoroub,Riyadh, West Riyadh,3,5,405.0,0,0,0,0
+1200000.0,Az Zomorod,Makkah, Jeddah,6,6,312.0,0,1,0,0
+1750000.0,Al Qirawan,Riyadh, North Riyadh,4,7,300.0,0,0,0,0
+3700000.0,Ash Shati,Makkah, Jeddah,4,4,403.0,0,0,0,0
+1700000.0,Al Yaqoot,Makkah, Jeddah,6,6,312.0,1,1,1,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,4,300.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,3,360.0,0,0,0,0
+1250000.0,Al Yaqoot,Makkah, Jeddah,6,5,250.0,0,0,0,0
+1100000.0,Badr,Riyadh, South Riyadh,4,5,360.0,0,0,0,0
+1050000.0,Dhahrat Laban,Riyadh, West Riyadh,6,5,200.0,0,0,0,0
+2025000.0,Al Munsiyah,Riyadh, East Riyadh,5,5,387.0,0,0,0,0
+2550000.0,An Narjis,Riyadh, North Riyadh,7,5,360.0,1,1,1,0
+1600000.0,Al Faiha,Makkah, Jeddah,3,3,170.0,0,1,1,0
+950000.0,Dhahrat Laban,Riyadh, West Riyadh,5,5,200.0,0,0,0,0
+1700000.0,Al Munsiyah,Riyadh, East Riyadh,3,4,315.0,1,0,0,0
+920000.0,Badr,Riyadh, South Riyadh,4,6,250.0,0,0,0,0
+1050000.0,Al Munsiyah,Riyadh, East Riyadh,4,3,250.0,0,0,1,0
+1200000.0,King Faisal,Riyadh, East Riyadh,5,3,500.0,0,0,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,5,5,309.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,5,5,250.0,0,0,0,0
+1170000.0,Al Ghoroub,Riyadh, West Riyadh,5,5,412.0,0,0,0,0
+1500000.0,Ar Rimal,Riyadh, East Riyadh,5,7,388.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+880000.0,Al Hazm,Riyadh, South Riyadh,6,6,250.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+1180000.0,As Salhiyah,Makkah, Jeddah,4,5,300.0,0,0,0,0
+1350000.0,Al Qadisiyah,Riyadh, East Riyadh,5,4,264.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,4,260.0,0,0,0,0
+1070000.0,Al Maizilah,Riyadh, East Riyadh,5,5,221.0,0,0,0,0
+1800000.0,Al Yaqoot,Makkah, Jeddah,6,5,312.0,1,1,1,0
+1550000.0,King Faisal,Riyadh, East Riyadh,5,3,406.0,0,0,0,0
+1550000.0,Ar Rimal,Riyadh, East Riyadh,5,6,342.0,0,0,0,0
+4850000.0,Al Buhirat,Makkah, Jeddah,4,3,800.0,0,0,0,0
+1150000.0,Ar Rimal,Riyadh, East Riyadh,3,4,432.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,4,250.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+2950000.0,Al Muhammadiyah,Riyadh, West Riyadh,4,5,324.0,1,0,1,0
+2400000.0,Al Qirawan,Riyadh, North Riyadh,4,6,300.0,1,0,1,0
+1150000.0,Al Janadriyah,Riyadh, East Riyadh,5,5,280.0,0,0,0,0
+2500000.0,An Nakhil,Riyadh, North Riyadh,4,7,477.0,0,0,1,0
+1180000.0,Badr,Riyadh, South Riyadh,6,7,420.0,0,0,0,0
+1100000.0,Al Ghoroub,Riyadh, West Riyadh,5,6,300.0,0,0,0,0
+2200000.0,An Narjis,Riyadh, North Riyadh,7,7,312.0,0,0,0,0
+1180000.0,Ar Rimal,Riyadh, East Riyadh,5,5,300.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+2300000.0,Al Qirawan,Riyadh, North Riyadh,5,2,350.0,0,0,0,0
+1130000.0,Tuwaiq,Riyadh, West Riyadh,5,5,300.0,0,1,0,0
+1180000.0,Badr,Riyadh, South Riyadh,3,5,420.0,0,0,0,0
+3700000.0,Ash Shati,Makkah, Jeddah,5,5,325.0,0,0,0,0
+1299000.0,Al Asalah,Makkah, Jeddah,7,7,600.0,0,0,0,0
+1200000.0,Al Janadriyah,Riyadh, East Riyadh,4,4,330.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,4,387.0,0,0,0,0
+800000.0,Taibah,Riyadh, South Riyadh,4,6,207.0,0,0,0,0
+1500000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,6,6,312.0,2,0,0,0
+910000.0,An Nazim,Riyadh, East Riyadh,4,4,375.0,0,0,0,0
+1800000.0,Al Yaqoot,Makkah, Jeddah,6,6,312.0,1,1,1,0
+950000.0,Dirab,Riyadh, South Riyadh,6,7,250.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,4,345.0,0,0,0,0
+1850000.0,Al Khalij,Riyadh, East Riyadh,5,3,900.0,0,0,0,0
+1400000.0,Ar Rimal,Riyadh, East Riyadh,4,4,396.0,0,0,0,0
+3500000.0,Ash Shati,Makkah, Jeddah,5,7,375.0,0,0,0,1
+900000.0,Al Awali,Riyadh, Al Riyadh,3,4,210.0,0,0,0,0
+1680000.0,Al Qadisiyah,Riyadh, East Riyadh,7,6,375.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,4,294.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,6,387.0,0,0,0,0
+1150000.0,Al Qadisiyah,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,3,360.0,0,0,0,0
+910000.0,Badr,Riyadh, South Riyadh,3,5,420.0,0,0,0,0
+1050000.0,Al Janadriyah,Riyadh, East Riyadh,4,4,350.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,3,360.0,0,0,0,0
+1350000.0,Al Qadisiyah,Riyadh, East Riyadh,4,4,264.0,0,0,0,0
+1600000.0,Al Qadisiyah,Riyadh, East Riyadh,3,4,318.0,0,0,1,0
+1130000.0,Ar Rimal,Riyadh, East Riyadh,3,3,432.0,0,0,0,0
+1150000.0,Al Qadisiyah,Riyadh, East Riyadh,5,6,250.0,0,0,0,0
+1600000.0,Al Qadisiyah,Riyadh, East Riyadh,5,5,318.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+1180000.0,Tuwaiq,Riyadh, West Riyadh,5,6,300.0,0,0,0,0
+1000000.0,Badr,Riyadh, South Riyadh,4,4,420.0,0,0,0,0
+920000.0,Ash Shifa,Riyadh, South Riyadh,5,6,255.0,0,0,0,0
+4200000.0,Al Wurud,Riyadh, North Riyadh,4,7,600.0,0,1,0,0
+1000000.0,Badr,Riyadh, South Riyadh,4,5,204.0,0,0,0,0
+850000.0,Uqaz,Riyadh, South Riyadh,5,5,350.0,0,0,0,0
+1100000.0,Al Mahdiyah,Riyadh, West Riyadh,5,5,200.0,0,0,0,0
+1500000.0,Al Ghoroub,Riyadh, West Riyadh,3,5,825.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,4,260.0,0,0,0,0
+880000.0,Badr,Riyadh, South Riyadh,4,4,227.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,5,310.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,4,378.0,0,0,0,0
+1150000.0,Al Mahdiyah,Riyadh, West Riyadh,6,6,200.0,0,0,1,0
+1650000.0,Al Hamadaniyah,Makkah, Jeddah,6,7,300.0,1,1,1,0
+830000.0,Taibah,Riyadh, South Riyadh,4,4,351.0,0,0,0,0
+1550000.0,Ar Rimal,Riyadh, East Riyadh,4,4,414.0,0,0,0,0
+1230000.0,As Swaryee,Makkah, Jeddah,4,4,350.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,5,5,250.0,0,0,0,0
+1270000.0,Al Munsiyah,Riyadh, East Riyadh,4,5,240.0,0,0,0,0
+3700000.0,Ar Rahmah,Makkah, Jeddah,5,6,340.0,1,1,0,0
+500000.0,Al Qadisiyah,Riyadh, East Riyadh,3,2,137.0,0,0,0,0
+830000.0,Taibah,Riyadh, South Riyadh,4,6,216.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,4,5,367.0,0,0,0,0
+1250000.0,As Salhiyah,Makkah, Jeddah,4,5,300.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,6,310.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,5,293.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,4,220.0,0,0,0,0
+1500000.0,Al Ghoroub,Riyadh, West Riyadh,3,6,825.0,0,0,0,0
+3500000.0,As Sulimaniyah,Makkah, Jeddah,7,7,575.0,2,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,6,6,300.0,0,0,0,0
+1290000.0,Al Qadisiyah,Riyadh, East Riyadh,4,4,246.0,0,0,0,0
+1750000.0,Al Amwaj,Makkah, Jeddah,7,6,325.0,0,0,0,0
+950000.0,Uqaz,Riyadh, South Riyadh,5,5,300.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,6,6,275.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,6,386.0,0,0,0,0
+830000.0,Badr,Riyadh, South Riyadh,3,5,360.0,0,0,0,0
+830000.0,Badr,Riyadh, South Riyadh,3,5,360.0,0,0,0,0
+1100000.0,Tuwaiq,Riyadh, West Riyadh,3,4,375.0,0,0,0,0
+1600000.0,Ar Rimal,Riyadh, East Riyadh,4,6,312.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,7,372.0,0,0,0,0
+1100000.0,Al Janadriyah,Riyadh, East Riyadh,4,4,324.0,0,0,0,0
+9000000.0,Ash Shati,Makkah, Jeddah,6,7,855.0,0,0,0,1
+1270000.0,Al Munsiyah,Riyadh, East Riyadh,5,5,240.0,0,0,0,0
+1270000.0,Al Munsiyah,Riyadh, East Riyadh,4,5,240.0,0,0,0,0
+1250000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,240.0,0,0,0,0
+1000000.0,As Salhiyah,Makkah, Jeddah,5,4,300.0,0,0,0,0
+1100000.0,Al Janadriyah,Riyadh, East Riyadh,4,4,350.0,0,0,0,0
+1550000.0,Tuwaiq,Riyadh, West Riyadh,5,7,450.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,5,4,270.0,0,0,0,0
+1300000.0,Al Qadisiyah,Riyadh, East Riyadh,4,6,264.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,4,243.0,0,0,0,0
+1000000.0,Ash Shifa,Riyadh, South Riyadh,3,4,330.0,0,0,0,0
+1270000.0,Al Munsiyah,Riyadh, East Riyadh,4,5,240.0,0,0,0,0
+1230000.0,Uqaz,Riyadh, South Riyadh,5,5,375.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,6,5,250.0,0,0,0,0
+1150000.0,Al Mahdiyah,Riyadh, West Riyadh,6,6,200.0,0,0,0,0
+120000.0,An Narjis,Riyadh, North Riyadh,4,4,225.0,0,0,0,0
+1470000.0,Ar Rimal,Riyadh, East Riyadh,5,6,388.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,5,5,360.0,0,0,0,0
+1150000.0,An Nazim,Riyadh, East Riyadh,5,4,280.0,0,0,0,0
+920000.0,Uqaz,Riyadh, South Riyadh,3,4,390.0,0,0,0,0
+1650000.0,Az Zomorod,Makkah, Jeddah,6,7,312.0,1,1,0,0
+1020000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,3,360.0,0,0,0,0
+920000.0,Uqaz,Riyadh, South Riyadh,3,4,400.0,0,0,0,0
+1130000.0,Ash Sharq,Riyadh, East Riyadh,3,3,432.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,4,250.0,0,0,0,0
+850000.0,Uqaz,Riyadh, South Riyadh,3,4,337.0,0,0,0,0
+870000.0,Badr,Riyadh, South Riyadh,3,5,227.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,4,288.0,0,0,0,0
+5700000.0,Az Zahra,Makkah, Jeddah,4,6,360.0,0,0,0,0
+2550000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,6,375.0,0,0,0,0
+3500000.0,An Nahdah,Makkah, Jeddah,5,5,312.0,0,0,0,0
+6500000.0,Al Hamra,Makkah, Jeddah,5,7,900.0,0,0,0,0
+2500000.0,Madinah Road,Makkah, Jeddah,6,6,550.0,0,0,0,0
+1550000.0,Ishbiliya,, Al Khubar,5,2,500.0,0,0,0,0
+3500000.0,Al Malqa,Riyadh, North Riyadh,4,7,405.0,1,1,1,1
+900000.0,Al Wahah,Makkah, Jeddah,6,4,400.0,0,0,1,0
+3500000.0,Al Murjan,Makkah, Jeddah,7,7,574.0,0,1,0,0
+890000.0,Badr,Riyadh, South Riyadh,3,5,225.0,0,0,0,0
+4000000.0,Uhud,, Ad Dammam,7,6,1042.0,0,0,0,0
+3100000.0,An Nahdah,Riyadh, East Riyadh,7,4,1100.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,2,294.0,0,0,0,0
+760000.0,Uhud,Riyadh, South Riyadh,4,6,250.0,0,0,0,0
+1350000.0,As Salhiyah,Makkah, Jeddah,1,6,300.0,0,0,0,1
+2160000.0,Al Yarmuk,Riyadh, East Riyadh,5,2,750.0,0,0,0,0
+950000.0,Ar Rimal,Riyadh, East Riyadh,4,2,250.0,0,0,1,0
+2200000.0,Al Khalij,Riyadh, East Riyadh,5,2,750.0,0,0,0,0
+3000000.0,Ishbiliyah,Riyadh, East Riyadh,6,3,900.0,0,0,0,0
+1600000.0,Az Zomorod,Makkah, Jeddah,7,7,312.0,1,0,1,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,2,294.0,0,0,0,0
+1150000.0,Al Loaloa,Makkah, Jeddah,4,6,200.0,1,1,0,0
+830000.0,Taibah,Riyadh, South Riyadh,4,5,216.0,0,0,0,0
+3650000.0,An Naim,Makkah, Jeddah,5,7,341.0,0,1,0,0
+2000000.0,Al Khalij,Riyadh, East Riyadh,5,3,700.0,0,0,0,0
+1100000.0,Al Khomrah,Makkah, Jeddah,6,4,320.0,0,0,0,0
+1500000.0,Az Zomorod,Makkah, Jeddah,6,6,312.0,0,0,0,0
+4700000.0,Al Basatin,Makkah, Jeddah,6,6,870.0,0,0,0,0
+3200000.0,An Nahdah,Makkah, Jeddah,5,7,440.0,0,0,0,0
+2200000.0,Ash Sheraa,Makkah, Jeddah,5,7,330.0,1,1,1,0
+2200000.0,Ash Sheraa,Makkah, Jeddah,5,7,330.0,1,1,1,0
+1270000.0,Ash Shifa,Riyadh, South Riyadh,3,4,420.0,0,0,0,0
+930000.0,Dhahrat Laban,Riyadh, West Riyadh,5,5,200.0,0,0,0,0
+1400000.0,Az Zomorod,Makkah, Jeddah,5,5,312.0,0,0,1,0
+8000000.0,Badr,Riyadh, South Riyadh,3,4,441.0,0,0,0,0
+910000.0,Badr,Riyadh, South Riyadh,3,4,400.0,0,0,0,0
+890000.0,Badr,Riyadh, South Riyadh,3,4,420.0,0,0,0,0
+1500000.0,Ar Rimal,Riyadh, East Riyadh,3,4,340.0,0,0,0,0
+1000000.0,Tuwaiq,Riyadh, West Riyadh,4,4,240.0,0,0,0,0
+2850000.0,At Taawn,Riyadh, North Riyadh,4,6,378.0,0,0,0,0
+1400000.0,Al Yaqoot,Makkah, Jeddah,6,6,288.0,1,1,1,0
+2200000.0,An Naim,Makkah, Jeddah,5,7,333.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,3,2,300.0,0,0,0,0
+1270000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,240.0,0,0,0,0
+1430000.0,Ar Rimal,Riyadh, East Riyadh,4,4,388.0,0,1,0,0
+2200000.0,Ash Sheraa,Makkah, Jeddah,5,5,330.0,1,1,0,0
+1600000.0,Ar Rimal,Riyadh, East Riyadh,3,3,312.0,0,0,1,0
+850000.0,Badr,Riyadh, South Riyadh,3,4,420.0,0,0,0,0
+880000.0,Tuwaiq,Riyadh, West Riyadh,5,6,210.0,0,0,0,0
+1050000.0,Tuwaiq,Riyadh, West Riyadh,3,5,420.0,0,0,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,3,3,309.0,0,0,0,0
+860000.0,Badr,Riyadh, South Riyadh,3,4,380.0,0,0,0,0
+1350000.0,An Narjis,Riyadh, North Riyadh,5,4,225.0,0,0,1,0
+900000.0,Taibah,Riyadh, South Riyadh,4,4,390.0,0,0,0,0
+970000.0,Taibah,Riyadh, South Riyadh,6,6,318.0,0,0,0,0
+910000.0,Badr,Riyadh, South Riyadh,3,4,400.0,0,0,0,0
+1150000.0,Ar Rimal,Riyadh, East Riyadh,5,6,276.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,5,4,293.0,0,0,0,0
+800000.0,Badr,Riyadh, South Riyadh,5,6,250.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,4,243.0,0,0,0,0
+1600000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,288.0,0,0,1,0
+4850000.0,Al Buhirat,Makkah, Jeddah,4,3,600.0,0,0,0,0
+1700000.0,Al Munsiyah,Riyadh, East Riyadh,3,4,312.0,0,0,1,0
+2250000.0,An Narjis,Riyadh, North Riyadh,5,4,337.0,1,0,1,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+1030000.0,Ar Rimal,Riyadh, East Riyadh,5,4,244.0,0,0,0,0
+1600000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,250.0,0,0,1,0
+1050000.0,Al Qadisiyah,Riyadh, East Riyadh,5,4,200.0,0,0,0,0
+1470000.0,Ar Rimal,Riyadh, East Riyadh,5,5,388.0,0,1,0,0
+1650000.0,Tuwaiq,Riyadh, West Riyadh,4,4,450.0,0,0,0,0
+1180000.0,Ar Rimal,Riyadh, East Riyadh,3,4,300.0,0,0,0,0
+1300000.0,Al Hamadaniyah,Makkah, Jeddah,6,7,300.0,0,0,0,0
+1150000.0,Ar Rimal,Riyadh, East Riyadh,4,2,250.0,0,0,0,0
+1350000.0,Al Marwah,Makkah, Jeddah,7,7,441.0,2,0,0,0
+1450000.0,Al Munsiyah,Riyadh, East Riyadh,6,7,300.0,0,0,0,0
+1240000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+10000000.0,An Nakhil,Riyadh, North Riyadh,6,7,1300.0,1,1,0,0
+880000.0,Al Hazm,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+1250000.0,Al Munsiyah,Riyadh, East Riyadh,6,6,240.0,0,0,0,0
+830000.0,Taibah,Riyadh, South Riyadh,3,6,215.0,0,0,0,0
+1020000.0,Badr,Riyadh, South Riyadh,6,6,300.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,7,7,360.0,0,0,0,0
+800000.0,Taibah,Riyadh, South Riyadh,4,6,220.0,0,0,0,0
+630000.0,Ghirnatah,Riyadh, East Riyadh,3,3,140.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,5,360.0,0,0,0,0
+1080000.0,Al Ghoroub,Riyadh, West Riyadh,6,7,300.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,3,360.0,0,0,0,0
+700000.0,Ghirnatah,Riyadh, East Riyadh,3,3,158.0,0,0,0,0
+1330000.0,Al Munsiyah,Riyadh, East Riyadh,6,5,367.0,0,0,0,0
+1650000.0,Taibah,Makkah, Jeddah,7,7,312.0,1,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,5,240.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,1,0
+1000000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,3,360.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,3,3,348.0,0,0,0,0
+800000.0,Taibah,Riyadh, South Riyadh,4,6,220.0,0,0,0,0
+1150000.0,Al Janadriyah,Riyadh, East Riyadh,4,4,280.0,0,0,0,0
+1250000.0,Uqaz,Riyadh, South Riyadh,3,6,375.0,0,0,0,0
+500000.0,Ghirnatah,Riyadh, East Riyadh,3,3,115.0,0,0,0,0
+1550000.0,Al Munsiyah,Riyadh, East Riyadh,5,5,288.0,0,0,0,0
+900000.0,Al Hazm,Riyadh, South Riyadh,3,3,300.0,0,0,0,0
+2500000.0,Al Yasmin,Riyadh, North Riyadh,4,7,403.0,0,1,0,0
+1050000.0,Badr,Riyadh, South Riyadh,3,4,306.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,6,5,235.0,0,0,0,0
+1100000.0,Al Qadisiyah,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+1450000.0,An Narjis,Riyadh, North Riyadh,4,5,231.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,6,250.0,0,0,0,0
+800000.0,Badr,Riyadh, South Riyadh,3,5,360.0,0,0,0,0
+1850000.0,An Narjis,Riyadh, North Riyadh,5,4,288.0,1,0,1,0
+1200000.0,Tuwaiq,Riyadh, West Riyadh,6,6,360.0,0,0,0,0
+1350000.0,Al Loaloa,Makkah, Jeddah,5,6,220.0,1,1,1,0
+1250000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,250.0,0,0,0,0
+2700000.0,Qurtubah,Riyadh, East Riyadh,4,5,450.0,0,0,1,0
+1100000.0,Al Janadriyah,Riyadh, East Riyadh,3,5,244.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+1320000.0,Ar Rimal,Riyadh, East Riyadh,6,6,356.0,0,0,0,0
+800000.0,Badr,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+1180000.0,Ar Rimal,Riyadh, East Riyadh,4,4,288.0,0,0,0,0
+870000.0,Badr,Riyadh, South Riyadh,6,5,216.0,0,0,0,0
+700000.0,Badr,Riyadh, South Riyadh,3,4,277.0,0,0,0,0
+870.0,Al Hamadaniyah,Makkah, Jeddah,5,4,300.0,1,0,0,0
+1250000.0,Uqaz,Riyadh, South Riyadh,4,4,375.0,0,0,0,0
+860000.0,Tuwaiq,Riyadh, West Riyadh,4,5,200.0,0,0,0,0
+1400000.0,Ar Rimal,Riyadh, East Riyadh,5,5,342.0,0,1,0,0
+1300000.0,Al Munsiyah,Riyadh, East Riyadh,6,5,240.0,0,0,0,0
+2750000.0,An Narjis,Riyadh, North Riyadh,5,5,450.0,1,0,1,0
+1430000.0,Al Ghoroub,Riyadh, West Riyadh,4,6,460.0,0,0,0,0
+1180000.0,Ar Rimal,Riyadh, East Riyadh,5,5,300.0,0,0,0,0
+960000.0,Badr,Riyadh, South Riyadh,3,4,288.0,0,0,0,0
+880000.0,Badr,Riyadh, South Riyadh,4,5,250.0,0,0,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,5,5,309.0,0,0,0,0
+1040000.0,Tuwaiq,Riyadh, West Riyadh,6,6,238.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,6,260.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+1050000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+1100000.0,Al Qadisiyah,Riyadh, East Riyadh,6,7,260.0,0,0,0,0
+2700000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,450.0,0,0,1,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,4,200.0,0,0,1,0
+930000.0,Uqaz,Riyadh, South Riyadh,4,5,325.0,0,0,0,0
+1550000.0,Al Munsiyah,Riyadh, East Riyadh,7,6,288.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,4,260.0,0,0,0,0
+1310000.0,Al Munsiyah,Riyadh, East Riyadh,6,5,357.0,0,0,0,0
+1000000.0,Al Wahah,Makkah, Jeddah,6,5,380.0,1,0,1,0
+1150000.0,Al Hazm,Riyadh, South Riyadh,5,6,312.0,0,0,0,0
+1230000.0,As Swaryee,Makkah, Jeddah,7,6,350.0,0,0,0,0
+1020000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,3,360.0,0,0,0,0
+1300000.0,Al Asalah,Makkah, Jeddah,7,5,600.0,0,0,0,0
+1050000.0,Al Qadisiyah,Riyadh, East Riyadh,4,5,200.0,0,0,0,0
+2100000.0,As Sulimaniyah,Riyadh, Downtown Riyadh,5,6,219.0,0,0,0,0
+1300000.0,As Salhiyah,Makkah, Jeddah,3,7,330.0,0,0,0,0
+1400000.0,As Salhiyah,Makkah, Jeddah,3,7,330.0,0,0,0,0
+1250000.0,As Swaryee,Makkah, Jeddah,5,4,210.0,1,1,0,0
+4000000.0,An Narjis,Riyadh, North Riyadh,4,4,450.0,1,1,1,0
+2500000.0,Abhur Al Janubiyah,Makkah, Jeddah,6,7,375.0,0,0,0,0
+2300000.0,An Naim,Makkah, Jeddah,5,7,330.0,0,0,0,0
+700000.0,Al Wahah,Makkah, Jeddah,5,4,171.0,1,0,0,0
+1950000.0,Al Yaqoot,Makkah, Jeddah,4,5,312.0,1,1,1,2
+810000.0,Badr,Riyadh, South Riyadh,5,5,250.0,0,0,0,0
+3100000.0,Al Basatin,Makkah, Jeddah,4,4,300.0,0,0,0,0
+8000000.0,Badr,Riyadh, South Riyadh,3,3,360.0,0,0,0,0
+850000.0,Taibah,Riyadh, South Riyadh,4,7,225.0,0,0,0,0
+1400000.0,Ar Rimal,Riyadh, East Riyadh,3,4,350.0,0,0,1,0
+850000.0,Al Wahah,Makkah, Jeddah,5,3,310.0,1,0,1,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,1,0,1,0
+6800000.0,Al Basatin,Makkah, Jeddah,5,6,640.0,0,0,0,0
+780000.0,Taibah,Riyadh, South Riyadh,4,6,220.0,0,0,0,0
+6500000.0,An Naim,Makkah, Jeddah,7,7,660.0,0,1,0,0
+2400000.0,Ar Rimal,Riyadh, East Riyadh,4,2,654.0,0,0,1,0
+1600000.0,AlFareedah Project,Makkah, Jeddah,3,5,413.0,0,0,0,0
+1400000.0,Al Uraija Al Gharbiyah,Riyadh, West Riyadh,7,7,750.0,0,0,0,0
+2500000.0,Abhur Al Janubiyah,Makkah, Jeddah,6,7,425.0,1,1,0,0
+1400000.0,Al Khalij,Riyadh, East Riyadh,5,1,375.0,0,0,0,0
+2300000.0,Al Wurud,Makkah, Jeddah,7,7,700.0,0,0,0,0
+760000.0,Badr,Riyadh, South Riyadh,3,4,441.0,0,0,0,0
+1850000.0,Ishbiliyah,Riyadh, East Riyadh,4,5,365.0,0,0,0,0
+1600000.0,Az Zomorod,Makkah, Jeddah,6,7,312.0,1,1,0,0
+1250000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,426.0,0,0,0,0
+7000000.0,Ash Shati,Makkah, Jeddah,4,7,780.0,0,0,0,0
+1900000.0,An Narjis,Riyadh, North Riyadh,4,6,330.0,0,0,0,0
+3300000.0,Hittin,Riyadh, North Riyadh,5,5,500.0,0,0,0,0
+3500000.0,Hittin,Riyadh, North Riyadh,5,7,464.0,0,0,0,0
+2000000.0,An Narjis,Riyadh, North Riyadh,4,5,375.0,0,0,0,0
+1850000.0,An Narjis,Riyadh, North Riyadh,4,6,345.0,0,0,0,0
+3100000.0,Hittin,Riyadh, North Riyadh,5,5,453.0,0,0,0,0
+2100000.0,An Narjis,Riyadh, North Riyadh,4,7,450.0,0,0,0,0
+100000.0,Abruq Ar Rughamah,Makkah, Jeddah,4,3,143.0,0,0,0,0
+400000.0,Abruq Ar Rughamah,Makkah, Jeddah,7,6,225.0,0,0,0,0
+5200000.0,Hittin,Riyadh, North Riyadh,5,5,700.0,0,0,0,0
+1500000.0,Dhahrat Laban,Riyadh, West Riyadh,6,6,450.0,0,0,0,0
+2500000.0,As Swaryee,Makkah, Jeddah,7,7,400.0,0,0,0,0
+1350000.0,As Swaryee,Makkah, Jeddah,5,7,325.0,0,0,0,0
+1300000.0,Az Zomorod,Makkah, Jeddah,6,7,312.0,0,0,0,0
+1450000.0,Al Yaqoot,Makkah, Jeddah,4,6,420.0,0,0,0,0
+2200000.0,Ash Sheraa,Makkah, Jeddah,7,6,400.0,0,0,0,0
+2800000.0,An Nahdah,Makkah, Jeddah,6,6,540.0,0,0,0,0
+1350000.0,As Swaryee,Makkah, Jeddah,6,6,250.0,0,0,0,0
+2800000.0,Al Yasmin,Riyadh, North Riyadh,6,5,460.0,0,0,0,0
+1100000.0,Dhahrat Laban,Riyadh, West Riyadh,4,4,262.0,0,0,0,0
+1650000.0,Al Yaqoot,Makkah, Jeddah,5,7,312.0,0,0,0,0
+4500000.0,Al Yasmin,Riyadh, North Riyadh,7,7,750.0,0,0,0,0
+2100000.0,Al Arid,Riyadh, North Riyadh,5,4,400.0,0,0,0,0
+1000000.0,Al Aziziyah,Riyadh, South Riyadh,4,3,660.0,0,0,0,0
+1220000.0,Al Ghoroub,Riyadh, West Riyadh,4,4,375.0,0,0,0,0
+2100000.0,Al Ajyal,Riyadh, North Riyadh,4,5,443.0,0,0,0,0
+2400000.0,Ash Sheraa,Makkah, Jeddah,7,7,450.0,0,0,0,0
+900000.0,Al Hamadaniyah,Makkah, Jeddah,5,3,300.0,0,0,0,0
+1600000.0,As Salhiyah,Makkah, Jeddah,6,7,450.0,0,0,0,0
+2200000.0,Al Qirawan,Riyadh, North Riyadh,4,5,393.0,0,0,0,0
+2100000.0,An Narjis,Riyadh, North Riyadh,3,4,420.0,0,0,0,0
+1470000.0,Al Arid,Riyadh, North Riyadh,4,4,270.0,0,0,0,0
+1400000.0,Az Zomorod,Makkah, Jeddah,6,6,312.0,0,0,0,0
+1100000.0,Ar Rahmanyah,Makkah, Jeddah,5,6,300.0,0,0,0,0
+4000000.0,Ishbiliyah,Riyadh, East Riyadh,4,3,642.0,0,0,0,0
+1550000.0,Al Arid,Riyadh, North Riyadh,5,4,300.0,0,0,0,0
+1350000.0,As Salhiyah,Makkah, Jeddah,1,6,330.0,0,0,0,0
+900000.0,Al Hamadaniyah,Makkah, Jeddah,5,3,300.0,0,0,0,0
+3800000.0,Hittin,Riyadh, North Riyadh,5,6,513.0,0,0,0,0
+1550000.0,Al Yaqoot,Makkah, Jeddah,4,3,375.0,0,0,0,0
+1375000.0,Al Loaloa,Makkah, Jeddah,5,7,312.0,0,0,0,0
+1320000.0,Al Ghoroub,Riyadh, West Riyadh,3,4,450.0,0,0,0,0
+1200000.0,Al Mahdiyah,Riyadh, West Riyadh,4,4,450.0,0,0,0,0
+10500000.0,Hittin,Riyadh, North Riyadh,7,7,1320.0,0,0,0,0
+5800000.0,Hittin,Riyadh, North Riyadh,5,5,860.0,0,0,0,0
+3800000.0,Al Malqa,Riyadh, North Riyadh,5,2,500.0,0,0,0,0
+1250000.0,Al Hamadaniyah,Makkah, Jeddah,3,7,330.0,0,0,0,0
+4500000.0,Al Malqa,Riyadh, North Riyadh,5,7,437.0,0,0,0,0
+1120000.0,Ar Rimal,Riyadh, East Riyadh,4,6,300.0,0,0,0,0
+1900000.0,Al Arid,Riyadh, North Riyadh,5,4,426.0,0,0,0,0
+5000000.0,Al Malqa,Riyadh, North Riyadh,5,6,900.0,0,0,0,0
+950000.0,As Salhiyah,Makkah, Jeddah,3,4,300.0,0,0,0,0
+2400000.0,Ghirnatah,Riyadh, East Riyadh,7,7,850.0,0,0,0,0
+2200000.0,Al Arid,Riyadh, North Riyadh,4,5,450.0,0,0,0,0
+1300000.0,Tuwaiq,Riyadh, West Riyadh,3,3,360.0,0,0,0,0
+2850000.0,Al Falah,Riyadh, North Riyadh,4,7,525.0,0,0,0,0
+2100000.0,Al Arid,Riyadh, North Riyadh,4,7,443.0,0,0,0,0
+3700000.0,Hittin,Riyadh, North Riyadh,5,5,500.0,0,0,0,0
+1250000.0,Az Zomorod,Makkah, Jeddah,7,6,250.0,0,0,0,0
+1450000.0,Al Arid,Riyadh, North Riyadh,4,3,270.0,0,0,0,0
+3200000.0,Hittin,Riyadh, North Riyadh,5,5,436.0,0,0,0,0
+2500000.0,Al Manar,Makkah, Jeddah,5,7,630.0,0,0,0,0
+1800000.0,Al Yasmin,Riyadh, North Riyadh,4,3,360.0,0,0,0,0
+1900000.0,An Narjis,Riyadh, North Riyadh,4,7,385.0,0,0,0,0
+4500000.0,Hittin,Riyadh, North Riyadh,5,7,900.0,0,0,0,0
+800000.0,Al Hazm,Riyadh, South Riyadh,4,3,312.0,0,0,0,0
+2700000.0,Irqah,Riyadh, West Riyadh,5,7,450.0,0,0,0,0
+1100000.0,Al Awali,Riyadh, Al Riyadh,6,4,300.0,0,0,0,0
+1300000.0,Tuwaiq,Riyadh, West Riyadh,4,4,300.0,0,0,0,0
+4000000.0,Al Yasmin,Riyadh, North Riyadh,5,7,750.0,0,0,0,0
+4100000.0,Al Ghadir,Riyadh, North Riyadh,5,7,720.0,0,0,0,0
+1600000.0,Taibah,Makkah, Jeddah,6,6,400.0,0,0,0,0
+10000000.0,Al Malqa,Riyadh, North Riyadh,5,7,1050.0,0,0,0,0
+3800000.0,Al Malqa,Riyadh, North Riyadh,5,5,600.0,0,0,0,0
+1300000.0,Az Zomorod,Makkah, Jeddah,7,6,312.0,0,0,0,0
+1300000.0,Al Falah,Makkah, Jeddah,7,7,360.0,0,0,0,0
+1800000.0,Taibah,Makkah, Jeddah,6,6,400.0,0,0,0,0
+1250000.0,Al Munsiyah,Riyadh, East Riyadh,5,6,240.0,0,0,0,0
+2800000.0,Al Munsiyah,Riyadh, East Riyadh,4,3,500.0,0,0,0,0
+5500000.0,Al Muhammadiyah,Makkah, Jeddah,7,7,631.0,0,1,0,0
+2950000.0,Al Muhammadiyah,Riyadh, West Riyadh,4,5,324.0,1,0,1,0
+1100000.0,Ash Sharq,Riyadh, East Riyadh,4,6,330.0,0,0,0,0
+950000.0,Uqaz,Riyadh, South Riyadh,4,7,325.0,0,1,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,5,300.0,0,0,1,0
+880000.0,Al Hazm,Riyadh, South Riyadh,4,5,250.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,3,4,300.0,0,0,1,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,5,7,288.0,0,0,0,0
+1500000.0,Qurtubah,Riyadh, East Riyadh,4,3,276.0,0,0,0,0
+1100000.0,Al Janadriyah,Riyadh, East Riyadh,4,4,324.0,0,0,0,0
+3500000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,2,7,504.0,1,1,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,5,290.0,0,0,0,0
+1200000.0,Tuwaiq,Riyadh, West Riyadh,5,5,270.0,0,0,0,0
+1600000.0,Tuwaiq,Riyadh, West Riyadh,4,4,450.0,0,0,0,0
+690000.0,Badr,Riyadh, South Riyadh,4,3,360.0,0,0,0,0
+780000.0,Badr,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+2200000.0,An Narjis,Riyadh, North Riyadh,7,7,312.0,1,0,1,0
+1350000.0,Al Munsiyah,Riyadh, East Riyadh,6,7,367.0,0,0,0,0
+810000.0,Dirab,Riyadh, South Riyadh,3,4,313.0,0,0,0,0
+1250000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,5,220.0,1,0,1,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,5,4,300.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,4,260.0,0,0,0,0
+1400000.0,Ar Rimal,Riyadh, East Riyadh,5,5,360.0,0,0,0,0
+1000000.0,Taibah,Riyadh, South Riyadh,4,6,273.0,0,0,0,0
+1070000.0,Al Ghoroub,Riyadh, West Riyadh,3,4,420.0,0,0,0,0
+860000.0,Dhahrat Namar,Riyadh, West Riyadh,4,5,200.0,0,0,0,0
+1050000.0,Al Hamadaniyah,Makkah, Jeddah,5,5,300.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,5,4,250.0,0,0,0,0
+1100000.0,Al Janadriyah,Riyadh, East Riyadh,4,7,324.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,4,250.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,5,5,300.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,4,260.0,0,0,0,0
+1550000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,288.0,0,0,0,0
+1450000.0,Al Yaqoot,Makkah, Jeddah,5,5,250.0,1,0,0,2
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,4,270.0,0,0,0,0
+1070000.0,Ar Rimal,Riyadh, East Riyadh,4,4,243.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,5,300.0,0,0,1,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,6,6,300.0,0,0,0,0
+1180000.0,Tuwaiq,Riyadh, West Riyadh,5,6,375.0,0,0,0,0
+1680000.0,Al Qadisiyah,Riyadh, East Riyadh,6,6,375.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,7,264.0,1,0,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,4,4,378.0,0,0,0,0
+1900000.0,An Narjis,Riyadh, North Riyadh,4,4,306.0,1,0,1,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,5,5,300.0,0,0,0,0
+950000.0,Al Ghoroub,Riyadh, West Riyadh,4,6,285.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,5,300.0,0,0,0,0
+880000.0,Al Hazm,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,3,4,360.0,0,0,0,0
+111.0,An Narjis,Riyadh, North Riyadh,4,7,350.0,0,0,1,0
+1550000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,288.0,0,0,0,0
+1200000.0,Tuwaiq,Riyadh, West Riyadh,4,6,270.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,6,6,350.0,0,0,0,0
+1280000.0,Al Munsiyah,Riyadh, East Riyadh,6,6,260.0,0,0,0,0
+1100000.0,Al Qadisiyah,Riyadh, East Riyadh,6,6,260.0,0,0,0,0
+960000.0,Al Ghoroub,Riyadh, West Riyadh,3,4,370.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,4,312.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+800000.0,Badr,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+1600000.0,Al Munsiyah,Riyadh, East Riyadh,4,5,288.0,0,0,0,0
+820000.0,Badr,Riyadh, South Riyadh,4,5,410.0,0,0,0,0
+800000.0,Badr,Riyadh, South Riyadh,4,3,360.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,4,260.0,0,0,0,0
+850000.0,As Sawari,, Al Khubar,4,6,200.0,0,0,0,0
+1150000.0,Tuwaiq,Riyadh, West Riyadh,6,7,355.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+1150000.0,Al Ghoroub,Riyadh, West Riyadh,4,6,360.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,4,250.0,0,0,0,0
+1120000.0,Al Maizilah,Riyadh, East Riyadh,5,5,240.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,5,300.0,0,0,0,0
+950000.0,Uqaz,Riyadh, South Riyadh,5,6,350.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+1000000.0,Al Qadisiyah,Riyadh, East Riyadh,6,6,200.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,6,5,250.0,0,0,0,0
+850000.0,Badr,Riyadh, South Riyadh,4,6,300.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,4,260.0,0,0,0,0
+1000000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,4,234.0,0,0,0,0
+800000.0,Badr,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+870000.0,Badr,Riyadh, South Riyadh,6,5,216.0,0,0,0,0
+2850.0,An Narjis,Riyadh, North Riyadh,5,4,450.0,0,0,0,0
+1600000.0,Ar Rimal,Riyadh, East Riyadh,4,4,415.0,1,0,0,0
+880000.0,Al Hazm,Riyadh, South Riyadh,5,5,200.0,0,0,0,0
+4500000.0,Al Falah,Riyadh, North Riyadh,5,7,810.0,0,0,0,0
+980000.0,Tuwaiq,Riyadh, West Riyadh,4,5,360.0,0,0,0,0
+1300000.0,Al Munsiyah,Riyadh, East Riyadh,6,5,240.0,0,0,0,0
+1000000.0,Al Qadisiyah,Riyadh, East Riyadh,6,7,200.0,0,0,1,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,4,4,250.0,0,0,0,0
+6000000.0,Al Hamra,Riyadh, East Riyadh,7,7,1237.0,0,1,0,0
+1550000.0,Ar Rimal,Riyadh, East Riyadh,4,4,414.0,0,0,0,0
+1130000.0,Ar Rimal,Riyadh, East Riyadh,4,4,284.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,4,294.0,0,0,0,0
+2500000.0,Al Malqa,Riyadh, North Riyadh,4,7,360.0,1,0,0,0
+1100000.0,Al Qadisiyah,Riyadh, East Riyadh,5,6,260.0,0,0,0,0
+2400000.0,Al Qirawan,Riyadh, North Riyadh,4,6,300.0,1,0,1,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,3,2,360.0,0,0,0,0
+1800000.0,Qurtubah,Riyadh, East Riyadh,3,7,415.0,0,0,0,0
+3500000.0,Hittin,Riyadh, North Riyadh,4,5,455.0,0,0,0,0
+1250000.0,Al Hamadaniyah,Makkah, Jeddah,5,5,300.0,0,0,0,0
+2200000.0,Al Qusour,Riyadh, North Riyadh,4,5,355.0,0,0,0,0
+2800000.0,Al Yasmin,Riyadh, North Riyadh,5,5,460.0,0,0,0,0
+950000.0,Al Ghoroub,Riyadh, West Riyadh,3,3,360.0,0,0,0,0
+6500000.0,Al Basatin,Makkah, Jeddah,5,7,400.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,3,324.0,0,0,0,0
+1550000.0,Al Arid,Riyadh, North Riyadh,3,4,336.0,0,0,0,0
+3100000.0,Al Malqa,Riyadh, North Riyadh,5,5,400.0,0,0,0,0
+5000000.0,Al Wahah,Riyadh, North Riyadh,4,5,924.0,0,0,0,0
+1300000.0,Az Zomorod,Makkah, Jeddah,7,7,300.0,0,0,0,0
+1250000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,6,262.0,0,0,0,0
+2800000.0,Al Malqa,Riyadh, North Riyadh,5,7,450.0,1,0,0,0
+1080000.0,Ar Rahmanyah,Makkah, Jeddah,7,6,300.0,1,0,0,0
+1600.0,Ar Rimal,Riyadh, East Riyadh,3,2,371.0,0,0,0,0
+1700000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,6,7,312.0,0,0,0,0
+2000000.0,An Narjis,Riyadh, North Riyadh,4,5,300.0,0,0,0,0
+3400000.0,As Sahafah,Riyadh, North Riyadh,5,6,525.0,0,0,0,0
+1220000.0,Al Ghoroub,Riyadh, West Riyadh,4,4,375.0,0,0,0,0
+4900000.0,Hittin,Riyadh, North Riyadh,5,5,666.0,0,0,0,0
+950000.0,As Salhiyah,Makkah, Jeddah,5,3,300.0,0,0,0,0
+4500000.0,Al Qirawan,Riyadh, North Riyadh,4,7,780.0,0,0,0,0
+2300000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,7,253.0,0,0,0,0
+1350000.0,Al Arid,Riyadh, North Riyadh,4,6,200.0,0,0,0,0
+950000.0,Al Ghoroub,Riyadh, West Riyadh,5,3,300.0,0,0,0,0
+1100000.0,Dhahrat Laban,Riyadh, West Riyadh,3,3,262.0,0,0,0,0
+6000000.0,Al Yasmin,Riyadh, North Riyadh,5,7,761.0,0,0,0,0
+1300000.0,Ar Rahmanyah,Makkah, Jeddah,5,5,300.0,0,0,0,0
+1200000.0,Al Jazirah,Riyadh, East Riyadh,3,4,476.0,0,0,0,0
+1300000.0,Al Munsiyah,Riyadh, East Riyadh,5,2,350.0,0,0,0,0
+1550000.0,Dhahrat Namar,Riyadh, West Riyadh,7,7,375.0,0,0,0,0
+1450000.0,Industrial Area Phase 1,Makkah, King Abdullah Economic City,5,5,330.0,0,0,1,0
+4000000.0,As Salhiyah,Makkah, Jeddah,7,7,600.0,0,0,0,0
+4500000.0,Al Murjan,Makkah, Jeddah,6,5,800.0,0,0,0,0
+2150.0,An Narjis,Riyadh, North Riyadh,3,2,399.0,0,0,0,0
+1150000.0,Al Frosyah,Makkah, Jeddah,6,4,400.0,1,0,0,0
+1050000.0,Al Hamadaniyah,Makkah, Jeddah,5,3,345.0,1,0,0,0
+1150000.0,At Tahliyah,, Al Khubar,7,5,255.0,0,0,0,0
+1900.0,Al Munsiyah,Riyadh, East Riyadh,5,4,337.0,0,0,0,0
+3500000.0,Al Malqa,Riyadh, North Riyadh,4,7,420.0,0,0,0,0
+1700000.0,Al Qusour,Riyadh, North Riyadh,4,5,300.0,1,0,0,0
+1450000.0,Al Arid,Riyadh, North Riyadh,3,5,210.0,0,0,0,0
+3600000.0,Hittin,Riyadh, North Riyadh,5,7,500.0,0,0,0,0
+3100000.0,An Narjis,Riyadh, North Riyadh,5,5,500.0,0,0,0,0
+3300000.0,Irqah,Riyadh, West Riyadh,5,7,600.0,0,0,0,0
+1200000.0,Ash Sheraa,Makkah, Jeddah,5,5,200.0,0,0,0,0
+1700000.0,Al Munsiyah,Riyadh, East Riyadh,3,2,417.0,0,0,0,0
+850000.0,Al Badiah,Riyadh, West Riyadh,7,7,500.0,0,0,0,0
+1450000.0,Al Awali,Riyadh, Al Riyadh,4,4,360.0,0,0,0,0
+2500000.0,Hittin,Riyadh, North Riyadh,4,5,360.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,2,324.0,0,0,0,0
+2050000.0,Ash Sheraa,Makkah, Jeddah,6,7,300.0,1,1,0,0
+770000.0,Al Aziziyyah,Riyadh, Al Kharj,5,5,364.0,0,0,0,0
+1900000.0,Ash Sheraa,Makkah, Jeddah,5,7,322.0,1,1,1,0
+15000000.0,Ishbiliya,, Al Khubar,7,7,2508.0,0,0,0,1
+1900000.0,Ash Sheraa,Makkah, Jeddah,5,7,322.0,1,1,1,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,1,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,5,310.0,0,0,0,0
+1260000.0,Al Loaloa,Makkah, Jeddah,4,3,220.0,4,2,0,0
+2050000.0,Ash Sheraa,Makkah, Jeddah,6,7,300.0,1,1,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,3,4,300.0,0,0,0,0
+3800000.0,Al Muhammadiyah,Makkah, Jeddah,7,6,720.0,0,1,0,0
+4500000.0,Ash Shati,Makkah, Jeddah,5,4,278.0,1,1,0,0
+6500000.0,Al Murjan,Makkah, Jeddah,7,7,450.0,1,1,0,0
+3100000.0,Al Basatin,Makkah, Jeddah,4,3,300.0,0,1,0,0
+1250000.0,Al Hamadaniyah,Makkah, Jeddah,7,6,300.0,1,1,0,0
+1800000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,3,3,200.0,0,0,0,0
+1130000.0,As Suwaidi Al Gharbi,Riyadh, West Riyadh,4,4,250.0,0,0,0,0
+2500000.0,Abhur Al Janubiyah,Makkah, Jeddah,7,6,375.0,0,0,0,0
+1300000.0,Ash Sheraa,Makkah, Jeddah,5,4,200.0,0,0,0,0
+2100000.0,Al Arid,Riyadh, North Riyadh,3,4,644.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,6,7,300.0,0,0,0,0
+930000.0,Dirab,Riyadh, South Riyadh,4,5,225.0,0,0,0,0
+1580000.0,Ar Rimal,Riyadh, East Riyadh,5,5,415.0,0,0,0,0
+1500000.0,Al Munsiyah,Riyadh, East Riyadh,5,5,288.0,0,0,0,0
+1260000.0,Ar Rimal,Riyadh, East Riyadh,6,6,360.0,0,0,0,0
+1230000.0,Ar Rimal,Riyadh, East Riyadh,4,4,312.0,0,0,0,0
+1500000.0,Ar Rimal,Riyadh, East Riyadh,5,7,415.0,1,0,0,0
+1270000.0,Ar Rimal,Riyadh, East Riyadh,4,4,270.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,3,250.0,0,0,0,0
+1080000.0,Ar Rimal,Riyadh, East Riyadh,4,5,241.0,0,0,0,0
+1580000.0,Ar Rimal,Riyadh, East Riyadh,5,5,415.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,5,7,250.0,0,0,0,0
+2500000.0,Ishbiliyah,Riyadh, East Riyadh,7,7,600.0,0,0,1,0
+1150000.0,Ar Rimal,Riyadh, East Riyadh,5,5,251.0,0,0,0,0
+4300000.0,Al Qirawan,Riyadh, North Riyadh,4,7,625.0,0,0,0,0
+810000.0,Badr,Riyadh, South Riyadh,3,4,441.0,0,0,0,0
+1270000.0,Al Kawthar,Makkah, Jeddah,7,7,313.0,0,0,1,0
+810000.0,Badr,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+1580000.0,Ar Rimal,Riyadh, East Riyadh,5,5,415.0,0,0,0,0
+2500000.0,Ar Rimal,Riyadh, East Riyadh,5,4,506.0,0,0,0,0
+1000000.0,Al Qadisiyah,Riyadh, East Riyadh,6,5,205.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,5,5,372.0,0,0,0,0
+1300000.0,Al Yarmuk,Riyadh, East Riyadh,5,5,250.0,0,0,1,0
+1000000.0,Al Qadisiyah,Riyadh, East Riyadh,4,4,200.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,4,360.0,0,0,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,6,7,360.0,1,0,0,0
+1800000.0,Al Muhammadiyah,Makkah, Jeddah,5,6,404.0,0,0,1,0
+1260000.0,Ash Shifa,Riyadh, South Riyadh,3,6,360.0,0,0,0,0
+1400000.0,Az Zomorod,Makkah, Jeddah,7,7,312.0,1,0,1,0
+1650000.0,Ar Rimal,Riyadh, East Riyadh,6,4,450.0,0,0,0,0
+1200000.0,Al Janadriyah,Riyadh, East Riyadh,4,4,330.0,0,0,0,0
+900000.0,Al Awali,Riyadh, Al Riyadh,5,5,210.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,5,5,268.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,5,4,300.0,0,0,0,0
+1600000.0,Ar Rimal,Riyadh, East Riyadh,5,4,420.0,0,0,1,0
+1400000.0,Al Loaloa,Makkah, Jeddah,2,7,300.0,0,0,0,0
+2100000.0,An Nada,Riyadh, North Riyadh,4,4,250.0,0,0,1,0
+950000.0,Badr,Riyadh, South Riyadh,4,6,250.0,0,0,0,0
+1285000.0,Ar Rimal,Riyadh, East Riyadh,5,5,277.0,0,0,0,0
+1000000.0,Al Qadisiyah,Riyadh, East Riyadh,5,5,200.0,0,0,0,0
+1180000.0,Tuwaiq,Riyadh, West Riyadh,5,5,270.0,0,0,0,0
+980000.0,Ar Rimal,Riyadh, East Riyadh,4,4,315.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,5,216.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,5,4,240.0,0,0,0,0
+1150000.0,Al Qadisiyah,Riyadh, East Riyadh,4,5,250.0,0,0,0,0
+2200000.0,Ash Sheraa,Makkah, Jeddah,5,7,330.0,1,1,0,0
+1000000.0,Al Qadisiyah,Riyadh, East Riyadh,5,5,200.0,0,0,0,0
+1700000.0,Al Yarmuk,Riyadh, East Riyadh,5,4,288.0,0,0,1,0
+1500000.0,Ar Rimal,Riyadh, East Riyadh,4,4,378.0,0,0,1,0
+1000000.0,Al Hazm,Riyadh, South Riyadh,3,5,225.0,0,0,0,0
+1100000.0,Al Janadriyah,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+950000.0,Uqaz,Riyadh, South Riyadh,6,7,330.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,5,7,372.0,0,0,0,0
+1140000.0,Ar Rimal,Riyadh, East Riyadh,4,6,264.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,4,3,350.0,0,0,0,0
+1700000.0,Al Yaqoot,Makkah, Jeddah,6,6,312.0,1,1,1,0
+1280000.0,Az Zomorod,Makkah, Jeddah,7,5,312.0,1,0,0,0
+1050000.0,Al Qadisiyah,Riyadh, East Riyadh,4,5,200.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,5,209.0,0,0,0,0
+2500000.0,Qurtubah,Riyadh, East Riyadh,4,5,437.0,0,0,0,0
+1270000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,5,5,250.0,0,0,0,0
+1460000.0,Al Qadisiyah,Riyadh, East Riyadh,6,6,334.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,6,6,240.0,0,0,0,0
+950000.0,Al Hazm,Riyadh, South Riyadh,3,5,225.0,0,0,0,0
+880000.0,Dirab,Riyadh, South Riyadh,5,6,225.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,5,5,360.0,0,0,0,0
+16000000.0,At Tahliyah,, Al Khubar,4,6,370.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,4,300.0,0,0,0,0
+1000000.0,Al Qadisiyah,Riyadh, East Riyadh,4,3,200.0,0,0,0,0
+930000.0,Ad Dar Al Baida,Riyadh, South Riyadh,4,6,275.0,0,0,0,0
+1150000.0,Al Qadisiyah,Riyadh, East Riyadh,4,4,250.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,5,7,276.0,0,0,0,0
+1000000.0,Ash Shifa,Riyadh, South Riyadh,4,5,312.0,0,0,0,0
+1000000.0,Al Mahdiyah,Riyadh, West Riyadh,2,5,200.0,0,0,0,0
+1850000.0,An Narjis,Riyadh, North Riyadh,5,6,345.0,0,0,0,0
+880000.0,Dirab,Riyadh, South Riyadh,6,6,225.0,0,0,0,0
+1180000.0,Badr,Riyadh, South Riyadh,4,5,420.0,0,0,0,0
+820000.0,Badr,Riyadh, South Riyadh,5,6,250.0,0,0,0,0
+1250000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,233.0,0,0,0,0
+2500000.0,Al Yasmin,Riyadh, North Riyadh,4,4,360.0,0,0,0,0
+1220000.0,Al Ghoroub,Riyadh, West Riyadh,4,4,375.0,0,0,0,0
+1650000.0,Al Arid,Riyadh, North Riyadh,4,5,337.0,0,0,0,0
+3900000.0,Hittin,Riyadh, North Riyadh,5,5,525.0,0,0,0,0
+2500000.0,Abhur Al Janubiyah,Makkah, Jeddah,6,7,375.0,1,1,0,0
+1300000.0,Al Wahah,Makkah, Jeddah,7,7,400.0,1,0,1,0
+6500000.0,Ar Rihab,Makkah, Jeddah,7,7,2300.0,0,0,0,0
+1700000.0,Az Zuhur,, Ad Dammam,5,4,564.0,0,0,0,0
+2300000.0,An Naim,Makkah, Jeddah,5,7,330.0,0,0,0,0
+4000000.0,Uhud,, Ad Dammam,6,7,1050.0,0,0,0,0
+4000000.0,Abhur Al Janubiyah,Makkah, Jeddah,4,6,600.0,0,0,0,0
+2200000.0,Al Munsiyah,Riyadh, East Riyadh,4,3,500.0,0,0,1,0
+1000000.0,As Salhiyah,Makkah, Jeddah,4,4,300.0,0,0,0,0
+1550000.0,Al Yaqoot,Makkah, Jeddah,7,7,280.0,1,1,0,1
+2500000.0,Abhur Al Janubiyah,Makkah, Jeddah,5,4,450.0,0,0,0,0
+980000.0,Al Ghoroub,Riyadh, West Riyadh,3,3,369.0,0,0,0,0
+950000.0,As Suwaidi,Riyadh, West Riyadh,7,7,500.0,0,0,0,0
+900000.0,Al Wahah,Makkah, Jeddah,5,3,360.0,1,0,1,0
+1550000.0,As Swaryee,Makkah, Jeddah,5,6,300.0,1,0,0,0
+2000000.0,Ar Rimal,Riyadh, East Riyadh,4,3,480.0,1,0,0,0
+1100000.0,Al Yaqoot,Makkah, Jeddah,4,5,220.0,1,0,1,1
+1170000.0,Al Qadisiyah,Riyadh, East Riyadh,4,3,288.0,0,0,0,0
+1950000.0,Al Qirawan,Riyadh, North Riyadh,5,4,337.0,0,0,0,0
+1500000.0,Ar Rimal,Riyadh, East Riyadh,4,3,430.0,0,0,0,0
+1600000.0,Az Zomorod,Makkah, Jeddah,6,7,312.0,1,1,1,0
+950000.0,Shubra,Riyadh, West Riyadh,7,7,440.0,0,0,0,0
+2000000.0,An Narjis,Riyadh, North Riyadh,5,7,265.0,1,0,1,1
+2350000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,455.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,5,235.0,0,0,0,0
+1500000.0,As Suwaidi Al Gharbi,Riyadh, West Riyadh,7,7,500.0,0,0,0,0
+7000000.0,Al Yasmin,Riyadh, North Riyadh,7,7,1000.0,2,1,0,0
+1430000.0,Taibah,Makkah, Jeddah,6,7,375.0,1,1,1,1
+6500000.0,Hittin,Riyadh, North Riyadh,5,5,500.0,0,1,0,0
+1250000.0,As Salhiyah,Makkah, Jeddah,7,7,360.0,1,0,0,0
+3500000.0,Al Muruj,Riyadh, North Riyadh,5,5,300.0,1,0,0,0
+1200000.0,Al Murabba,Riyadh, Downtown Riyadh,4,7,725.0,0,0,0,0
+1300000.0,Taibah,Makkah, Jeddah,3,5,316.0,1,0,0,0
+1350000.0,Al Yaqoot,Makkah, Jeddah,6,7,275.0,2,2,2,0
+2600000.0,Uqaz,Riyadh, South Riyadh,5,7,630.0,0,0,0,0
+1250000.0,Al Hamadaniyah,Makkah, Jeddah,2,5,450.0,0,0,0,0
+1700000.0,Taibah,Makkah, Jeddah,7,7,600.0,1,0,1,0
+1300000.0,Ar Rahmanyah,Makkah, Jeddah,5,4,350.0,0,0,0,0
+1300000.0,Al Hamadaniyah,Makkah, Jeddah,7,7,350.0,0,0,0,0
+1290000.0,Al Hazm,Riyadh, South Riyadh,3,3,335.0,0,0,1,0
+1150000.0,Ar Rahmanyah,Makkah, Jeddah,7,6,300.0,0,0,0,0
+1200000.0,As Salhiyah,Makkah, Jeddah,7,7,330.0,0,0,0,0
+3450000.0,Hittin,Riyadh, North Riyadh,5,5,554.0,1,1,0,0
+300000.0,Manfuhah Al Jadidah,Riyadh, Downtown Riyadh,2,3,215.0,0,0,0,0
+1150000.0,Ar Rahmanyah,Makkah, Jeddah,7,6,300.0,0,0,0,0
+1200000.0,As Salhiyah,Makkah, Jeddah,7,7,330.0,0,0,0,0
+3450000.0,Hittin,Riyadh, North Riyadh,5,5,554.0,1,1,0,0
+300000.0,Manfuhah Al Jadidah,Riyadh, Downtown Riyadh,2,3,215.0,0,0,0,0
+1250000.0,Al Hamadaniyah,Makkah, Jeddah,2,5,450.0,0,0,0,0
+1250000.0,Al Yaqoot,Makkah, Jeddah,6,7,270.0,0,1,1,0
+1700000.0,Taibah,Makkah, Jeddah,7,7,600.0,1,0,1,0
+4250000.0,Ar Rabi,Riyadh, North Riyadh,5,7,750.0,1,1,0,0
+1150000.0,Al Aziziyah,Riyadh, South Riyadh,3,4,420.0,0,0,0,0
+900000.0,Al Aziziyah,Riyadh, South Riyadh,3,5,250.0,0,0,0,0
+1350000.0,As Swaryee,Makkah, Jeddah,7,6,250.0,0,0,0,0
+2750000.0,An Nada,Riyadh, North Riyadh,4,7,448.0,0,0,1,0
+1850000.0,An Narjis,Riyadh, North Riyadh,4,4,375.0,0,0,0,0
+4000000.0,Ash Sheraa,Makkah, Jeddah,7,7,616.0,1,2,0,0
+4000000.0,Hittin,Riyadh, North Riyadh,6,7,656.0,1,1,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,4,5,360.0,0,0,0,0
+1650000.0,Namar,Riyadh, West Riyadh,4,5,338.0,1,1,0,0
+1230000.0,Ad Dar Al Baida,Riyadh, South Riyadh,3,4,420.0,0,0,0,0
+7000000.0,Al Falah,Riyadh, North Riyadh,7,5,1128.0,0,1,0,1
+950000.0,Ar Rahmanyah,Makkah, Jeddah,3,3,300.0,1,0,0,0
+950000.0,Al Hamadaniyah,Makkah, Jeddah,3,4,300.0,1,0,0,0
+1250000.0,As Salhiyah,Makkah, Jeddah,6,7,312.0,1,0,1,0
+1300000.0,Az Zomorod,Makkah, Jeddah,7,6,312.0,1,1,0,0
+1600000.0,Al Yasmin,Riyadh, North Riyadh,4,3,252.0,0,0,1,0
+4500000.0,Hittin,Riyadh, North Riyadh,5,6,600.0,1,1,0,0
+2500000.0,King Fahd,Riyadh, North Riyadh,7,7,600.0,0,0,1,0
+2200000.0,As Sawari,, Al Khubar,6,6,713.0,0,1,1,0
+1500000.0,Tuwaiq,Riyadh, West Riyadh,7,5,450.0,0,0,0,0
+100800000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,5,300.0,1,1,0,0
+1100000.0,Ar Rahmanyah,Makkah, Jeddah,4,5,300.0,1,0,0,0
+1250000.0,Al Yaqoot,Makkah, Jeddah,5,6,230.0,0,0,0,0
+2100000.0,Qurtubah,Riyadh, East Riyadh,4,4,530.0,0,0,0,0
+1700000.0,An Narjis,Riyadh, North Riyadh,4,6,312.0,1,0,0,0
+2000000.0,Al Qusour,Riyadh, North Riyadh,7,7,400.0,1,0,1,1
+1100000.0,Al Hamadaniyah,Makkah, Jeddah,5,4,300.0,1,0,0,0
+4000000.0,Hittin,Riyadh, North Riyadh,5,5,500.0,1,1,0,0
+1350000.0,Al Hamadaniyah,Makkah, Jeddah,7,7,300.0,1,1,0,0
+900000.0,Tuwaiq,Riyadh, West Riyadh,1,4,300.0,0,0,0,0
+1100000.0,Al Hamadaniyah,Makkah, Jeddah,5,4,300.0,1,0,0,0
+4000000.0,Hittin,Riyadh, North Riyadh,5,5,500.0,1,1,0,0
+1350000.0,Al Hamadaniyah,Makkah, Jeddah,7,7,300.0,1,1,0,0
+900000.0,Tuwaiq,Riyadh, West Riyadh,1,4,300.0,0,0,0,0
+1250000.0,As Salhiyah,Makkah, Jeddah,6,7,312.0,1,0,1,0
+1300000.0,Az Zomorod,Makkah, Jeddah,7,6,312.0,1,1,0,0
+1600000.0,Al Yasmin,Riyadh, North Riyadh,4,3,252.0,0,0,1,0
+4500000.0,Hittin,Riyadh, North Riyadh,5,6,600.0,1,1,0,0
+2500000.0,King Fahd,Riyadh, North Riyadh,7,7,600.0,0,0,1,0
+2200000.0,As Sawari,, Al Khubar,6,6,713.0,0,1,1,0
+1500000.0,Tuwaiq,Riyadh, West Riyadh,7,5,450.0,0,0,0,0
+1200000.0,Al Yaqoot,Makkah, Jeddah,6,7,242.0,1,0,2,0
+8500000.0,Al Yasmin,Riyadh, North Riyadh,5,6,1560.0,1,0,0,0
+1050000.0,Dirab,Riyadh, South Riyadh,3,5,300.0,0,0,0,0
+1800000.0,Ar Rafiah,Riyadh, West Riyadh,4,7,325.0,0,1,0,0
+1100000.0,Al Yaqoot,Makkah, Jeddah,6,5,250.0,1,0,0,0
+1150000.0,Al Falah,Makkah, Jeddah,5,6,312.0,1,0,0,0
+9000050.0,Ash Sheraa,Makkah, Jeddah,6,6,22.0,1,0,0,0
+1200000.0,As Salhiyah,Makkah, Jeddah,6,6,300.0,1,0,1,0
+1200000.0,Tuwaiq,Riyadh, West Riyadh,6,7,420.0,0,0,0,1
+1300000.0,Al Arid,Riyadh, North Riyadh,6,7,210.0,1,0,1,0
+850000.0,Badr,Riyadh, South Riyadh,3,3,375.0,0,0,0,0
+2500000.0,Al Yasmin,Riyadh, North Riyadh,5,7,368.0,1,1,1,0
+880000.0,Al Hazm,Riyadh, South Riyadh,6,6,240.0,0,0,0,0
+1300000.0,Ar Rimal,Riyadh, East Riyadh,5,6,360.0,0,0,0,0
+1000000.0,Al Janadriyah,Riyadh, East Riyadh,6,6,240.0,0,0,0,1
+1900000.0,An Narjis,Riyadh, North Riyadh,6,5,337.0,1,0,1,0
+1000000.0,Al Qadisiyah,Riyadh, East Riyadh,6,7,200.0,0,0,1,0
+1200000.0,Al Hazm,Riyadh, South Riyadh,5,5,300.0,0,0,0,0
+800000.0,Dirab,Riyadh, South Riyadh,3,4,312.0,0,0,0,0
+1100000.0,Al Ghoroub,Riyadh, West Riyadh,4,7,300.0,0,0,0,0
+4700000.0,Al Malqa,Riyadh, North Riyadh,5,7,615.0,1,1,0,0
+1700000.0,An Narjis,Riyadh, North Riyadh,6,6,280.0,1,0,1,0
+1500000.0,Al Qadisiyah,Riyadh, East Riyadh,6,7,334.0,0,1,1,1
+2950000.0,Al Muhammadiyah,Riyadh, West Riyadh,4,7,324.0,1,0,0,0
+2700000.0,Al Yasmin,Riyadh, North Riyadh,5,7,375.0,1,0,1,0
+1700000.0,Al Munsiyah,Riyadh, East Riyadh,5,6,420000.0,0,0,0,0
+1550000.0,Ar Rimal,Riyadh, East Riyadh,6,7,500.0,0,1,0,0
+980000.0,Al Ghoroub,Riyadh, West Riyadh,5,5,300.0,0,1,0,0
+1000000.0,Dirab,Riyadh, South Riyadh,4,5,225.0,0,0,0,0
+1500000.0,Al Yarmuk,Riyadh, East Riyadh,6,4,312.0,0,0,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,4,6,273.0,0,0,0,0
+1320000.0,Al Loaloa,Makkah, Jeddah,5,6,200.0,1,1,1,0
+810000.0,Badr,Riyadh, South Riyadh,4,5,250.0,0,0,0,0
+1350000.0,Al Loaloa,Makkah, Jeddah,5,5,200.0,1,1,1,1
+1750000.0,Al Yarmuk,Riyadh, East Riyadh,5,4,500.0,0,0,0,0
+1350000.0,An Narjis,Riyadh, North Riyadh,5,5,225.0,1,0,1,0
+890000.0,Al Hazm,Riyadh, South Riyadh,5,5,250.0,0,0,0,0
+1230000.0,Ar Rimal,Riyadh, East Riyadh,4,4,310.0,0,0,0,0
+1750000.0,Al Mahdiyah,Riyadh, West Riyadh,3,4,453.0,0,0,0,0
+1680000.0,Al Qadisiyah,Riyadh, East Riyadh,5,5,375.0,0,0,0,0
+3650000.0,Ar Rabi,Riyadh, North Riyadh,5,7,450.0,1,1,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,5,5,315.0,0,0,0,0
+1330000.0,Al Qadisiyah,Riyadh, East Riyadh,4,3,360.0,0,0,0,0
+2300000.0,Al Yasmin,Riyadh, North Riyadh,5,5,364.0,0,0,1,0
+1000000.0,Tuwaiq,Riyadh, West Riyadh,5,7,300.0,0,0,0,0
+2400000.0,Al Yasmin,Riyadh, North Riyadh,3,6,303.0,0,1,1,1
+1580000.0,Al Yarmuk,Riyadh, East Riyadh,5,7,278.0,0,0,1,0
+690000.0,Al Yarmuk,Riyadh, East Riyadh,3,3,192.0,0,0,0,0
+3200000.0,Al Malqa,Riyadh, North Riyadh,5,7,375.0,2,1,1,0
+1000000.0,Al Ghoroub,Riyadh, West Riyadh,5,7,300.0,0,0,0,0
+1300000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,250.0,0,0,1,0
+1400000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,3,6,312.0,1,0,1,0
+970000.0,Badr,Riyadh, South Riyadh,7,3,300.0,0,0,0,0
+1300000.0,Al Yaqoot,Makkah, Jeddah,6,6,250.0,1,1,1,0
+1100000.0,Tuwaiq,Riyadh, West Riyadh,3,4,435.0,0,0,0,0
+1300000.0,Al Munsiyah,Riyadh, East Riyadh,6,3,250.0,0,0,0,0
+870000.0,Ar Riyadh,Makkah, Jeddah,5,3,312.0,1,0,1,0
+1500000.0,Al Qadisiyah,Riyadh, East Riyadh,6,5,372.0,0,0,0,0
+1180000.0,Uqaz,Riyadh, South Riyadh,4,7,360.0,0,0,0,0
+1750000.0,An Narjis,Riyadh, North Riyadh,5,5,216.0,1,0,1,0
+850000.0,Tuwaiq,Riyadh, West Riyadh,5,7,200.0,0,0,0,0
+1400000.0,Tuwaiq,Riyadh, West Riyadh,4,7,460.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,3,288.0,0,0,0,0
+1400000.0,Ar Rimal,Riyadh, East Riyadh,5,5,360.0,0,0,1,0
+1300000.0,Az Zomorod,Makkah, Jeddah,7,7,312.0,1,0,0,0
+1250000.0,As Salhiyah,Makkah, Jeddah,6,7,300.0,1,0,0,0
+3200000.0,At Tahliyah,, Al Khubar,7,7,1574.0,0,0,0,0
+850000.0,Badr,Riyadh, South Riyadh,3,5,420.0,0,0,0,0
+1070000.0,Badr,Riyadh, South Riyadh,4,4,360000.0,0,0,0,0
+8000000.0,An Nada,Riyadh, North Riyadh,6,6,850.0,1,0,0,0
+1200000.0,As Salhiyah,Makkah, Jeddah,7,7,308.0,1,0,1,0
+1320000.0,Al Qusour,Riyadh, North Riyadh,6,6,200.0,0,0,1,0
+1300000.0,Al Loaloa,Makkah, Jeddah,5,7,220.0,1,0,0,0
+1600000.0,An Narjis,Riyadh, North Riyadh,4,5,260.0,1,0,0,0
+2600000.0,An Nakhil,Riyadh, North Riyadh,7,7,313.0,0,0,0,0
+1200000.0,Al Yaqoot,Makkah, Jeddah,6,7,242.0,1,0,2,0
+8500000.0,Al Yasmin,Riyadh, North Riyadh,5,6,1560.0,1,0,0,0
+1050000.0,Dirab,Riyadh, South Riyadh,3,5,300.0,0,0,0,0
+1800000.0,Ar Rafiah,Riyadh, West Riyadh,4,7,325.0,0,1,0,0
+1100000.0,Al Yaqoot,Makkah, Jeddah,6,5,250.0,1,0,0,0
+1150000.0,Al Falah,Makkah, Jeddah,5,6,312.0,1,0,0,0
+9000050.0,Ash Sheraa,Makkah, Jeddah,6,6,22.0,1,0,0,0
+1200000.0,As Salhiyah,Makkah, Jeddah,6,6,300.0,1,0,1,0
+1200000.0,Tuwaiq,Riyadh, West Riyadh,6,7,420.0,0,0,0,1
+1300000.0,Al Arid,Riyadh, North Riyadh,6,7,210.0,1,0,1,0
+850000.0,Badr,Riyadh, South Riyadh,3,3,375.0,0,0,0,0
+2500000.0,Al Yasmin,Riyadh, North Riyadh,5,7,368.0,1,1,1,0
+880000.0,Al Hazm,Riyadh, South Riyadh,6,6,240.0,0,0,0,0
+1000000.0,Ar Rimal,Riyadh, East Riyadh,3,3,202.0,0,0,0,0
+920000.0,Uqaz,Riyadh, South Riyadh,6,5,300.0,0,0,0,0
+710000.0,Al Hamadaniyah,Makkah, Jeddah,6,2,235.0,0,0,1,0
+1020000.0,Dirab,Riyadh, South Riyadh,4,7,312.0,0,0,0,0
+3900000.0,Al Malqa,Riyadh, North Riyadh,3,5,560.0,0,1,0,0
+1400000.0,As Swaryee,Makkah, Jeddah,6,6,312.0,1,1,0,0
+1250000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,7,6,262.0,1,0,0,0
+1300000.0,Al Yaqoot,Makkah, Jeddah,5,6,250.0,1,0,1,0
+920000.0,Dirab,Riyadh, South Riyadh,4,7,300.0,0,0,0,0
+1200000.0,As Salhiyah,Makkah, Jeddah,5,5,308.0,1,0,0,0
+950000.0,Ar Rimal,Riyadh, East Riyadh,4,6,216.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,4,3,288.0,0,0,0,0
+2700000.0,Al Loaloa,Makkah, Jeddah,2,6,400.0,1,1,0,0
+4100000.0,Al Malqa,Riyadh, North Riyadh,5,7,437.0,1,1,0,0
+980000.0,Tuwaiq,Riyadh, West Riyadh,5,5,400.0,0,0,0,0
+2500000.0,Al Basatin,Makkah, Jeddah,4,6,350.0,0,1,0,0
+2500000.0,Al Ajyal,Riyadh, North Riyadh,5,6,489.0,1,0,1,0
+2200000.0,Ash Sheraa,Makkah, Jeddah,7,7,500.0,0,0,0,0
+4500000.0,Al Malqa,Riyadh, North Riyadh,5,6,440.0,1,1,0,0
+1250000.0,Al Yaqoot,Makkah, Jeddah,7,7,312.0,1,1,1,0
+3800000.0,An Narjis,Riyadh, North Riyadh,4,5,580.0,0,0,0,0
+1200000.0,Taibah,Makkah, Jeddah,6,7,312.0,0,0,0,0
+5000000.0,As Sahafah,Riyadh, North Riyadh,7,6,1530.0,0,0,0,0
+1300000.0,Al Hamadaniyah,Makkah, Jeddah,6,6,300.0,0,1,0,0
+2000000.0,Ilaishah,Riyadh, Downtown Riyadh,7,7,1056.0,0,0,0,0
+1750000.0,Al Yaqoot,Makkah, Jeddah,7,7,500.0,0,0,0,0
+3000000.0,An Nada,Riyadh, North Riyadh,5,5,500.0,1,1,0,0
+1350000.0,Al Ajyal,Riyadh, North Riyadh,6,5,360.0,1,1,0,0
+1650000.0,Al Ulaya,Riyadh, Downtown Riyadh,5,7,660.0,0,0,0,0
+1550000.0,Al Yasmin,Riyadh, North Riyadh,5,3,290.0,0,0,0,0
+1250000.0,Al Yaqoot,Makkah, Jeddah,5,6,250.0,1,1,0,0
+1100000.0,As Salhiyah,Makkah, Jeddah,4,3,350.0,0,0,0,0
+1200000.0,Al Yaqoot,Makkah, Jeddah,4,6,250.0,1,1,1,0
+950000.0,Al Manar,Riyadh, East Riyadh,4,4,250.0,0,0,0,0
+2000000.0,Al Yasmin,Riyadh, North Riyadh,7,6,315.0,0,0,0,0
+3150000.0,Al Malqa,Riyadh, North Riyadh,5,6,450.0,1,0,0,0
+1350000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,3,6,312.0,0,0,0,0
+1350000.0,Al Arid,Riyadh, North Riyadh,4,4,250.0,1,0,1,0
+1150000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,6,250.0,1,0,0,0
+1400000.0,Al Hamadaniyah,Makkah, Jeddah,4,4,360.0,1,1,0,0
+2400000.0,An Narjis,Riyadh, North Riyadh,5,5,450.0,1,0,0,0
+1550000.0,An Narjis,Riyadh, North Riyadh,4,3,264.0,0,0,0,0
+1500000.0,As Salhiyah,Makkah, Jeddah,7,7,450.0,1,0,0,0
+1250000.0,Al Hazm,Riyadh, South Riyadh,3,4,360.0,0,0,0,0
+19000000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,7,7,1826.0,0,0,0,0
+2100000.0,Qurtubah,Riyadh, East Riyadh,6,6,506.0,0,0,0,0
+8600000.0,Al Khuzama,Riyadh, West Riyadh,6,7,1200.0,1,1,0,0
+8600000.0,Al Khuzama,Riyadh, West Riyadh,6,7,1200.0,1,1,0,0
+1850000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,6,6,262.0,0,1,0,0
+800000.0,Al Aziziyah,Riyadh, South Riyadh,4,5,264.0,0,0,0,0
+1900000.0,Al Arid,Riyadh, North Riyadh,5,5,405.0,0,0,0,0
+2050000.0,An Narjis,Riyadh, North Riyadh,4,4,315.0,1,0,0,0
+1200000.0,Al Hamadaniyah,Makkah, Jeddah,4,5,300.0,1,0,0,0
+1100000.0,Al Loaloa,Makkah, Jeddah,6,5,220.0,1,0,0,0
+1750000.0,Taibah,Makkah, Jeddah,4,7,450.0,0,1,0,0
+950000.0,As Salhiyah,Makkah, Jeddah,3,4,300.0,0,0,0,0
+2100000.0,Al Yasmin,Riyadh, North Riyadh,5,7,360.0,1,0,1,0
+1150000.0,Dirab,Riyadh, South Riyadh,4,7,300.0,0,0,0,0
+1130000.0,Dirab,Riyadh, South Riyadh,4,7,312.0,0,0,0,0
+2000000.0,Al Yasmin,Riyadh, North Riyadh,7,6,315.0,0,0,0,0
+1050000.0,Ar Rimal,Riyadh, East Riyadh,4,5,216.0,0,0,0,0
+975000.0,Badr,Riyadh, South Riyadh,5,5,310.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,5,4,250.0,0,0,0,0
+1220000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,309.0,0,0,0,0
+2150000.0,Al Arid,Riyadh, North Riyadh,5,5,336.0,1,0,1,0
+3500000.0,An Narjis,Riyadh, North Riyadh,4,3,500.0,1,3,1,0
+1100000.0,Al Mahdiyah,Riyadh, West Riyadh,2,4,450.0,0,0,0,0
+880000.0,An Nazim,Riyadh, East Riyadh,3,3,310.0,0,0,0,0
+970000.0,Ar Rimal,Riyadh, East Riyadh,4,4,220.0,0,0,0,0
+1400000.0,Al Fursan,, Ad Dammam,7,6,300.0,0,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,5,5,250.0,0,0,1,0
+2600000.0,Ash Shati,Makkah, Jeddah,4,5,274.0,0,0,1,0
+950000.0,Ar Rimal,Riyadh, East Riyadh,4,4,250.0,0,0,0,0
+1680000.0,Al Qadisiyah,Riyadh, East Riyadh,6,6,375.0,0,0,0,0
+950000.0,Al Yaqoot,Makkah, Jeddah,4,3,300.0,1,0,0,0
+1100000.0,Ar Rimal,Riyadh, East Riyadh,5,5,280.0,0,0,0,0
+1500000.0,Ar Rimal,Riyadh, East Riyadh,4,4,390.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,4,5,268.0,0,0,0,0
+4400000.0,Al Malqa,Riyadh, North Riyadh,7,7,600.0,2,1,0,0
+1000000.0,Al Qadisiyah,Riyadh, East Riyadh,4,4,200.0,0,0,0,0
+1290000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,5,6,230.0,1,0,0,0
+2500000.0,Abhur Al Janubiyah,Makkah, Jeddah,4,6,405.0,1,1,0,0
+1250000.0,Ar Rimal,Riyadh, East Riyadh,3,3,267.0,0,0,0,0
+2200000.0,Al Ajyal,Riyadh, North Riyadh,5,5,360.0,1,0,1,0
+1550000.0,Ar Rimal,Riyadh, East Riyadh,6,7,500.0,0,1,0,0
+2900000.0,An Narjis,Riyadh, North Riyadh,6,6,450.0,1,0,1,0
+1200000.0,As Salhiyah,Makkah, Jeddah,7,6,300.0,1,0,0,0
+4900000.0,Al Malqa,Riyadh, North Riyadh,5,7,600.0,1,1,0,0
+3000000.0,Al Yaqoot,Makkah, Jeddah,7,7,525.0,1,2,1,0
+1850000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,4,5,312.0,1,1,0,0
+1280000.0,Ar Rimal,Riyadh, East Riyadh,6,7,360.0,1,0,0,0
+1180000.0,Tuwaiq,Riyadh, West Riyadh,5,5,375.0,0,0,0,0
+2960000.0,Az Zahra,Makkah, Jeddah,4,5,613.0,0,0,1,0
+4000000.0,Ash Sheraa,Makkah, Jeddah,7,7,625.0,1,2,1,0
+1400000.0,Ash Sheraa,Makkah, Jeddah,5,5,200.0,1,0,0,0
+1300000.0,Al Mahdiyah,Riyadh, West Riyadh,5,5,477.0,0,0,0,0
+980000.0,Al Janadriyah,Riyadh, East Riyadh,3,4,365.0,0,0,0,0
+1350000.0,Ar Rimal,Riyadh, East Riyadh,5,5,312.0,0,0,0,0
+1600000.0,Al Qadisiyah,Riyadh, East Riyadh,3,2,418.0,0,0,0,0
+1150000.0,Al Qadisiyah,Riyadh, East Riyadh,4,3,250.0,0,0,0,0
+1300000.0,Al Qadisiyah,Riyadh, East Riyadh,4,3,325.0,0,0,0,0
+950000.0,Uhud,Riyadh, South Riyadh,4,6,250.0,0,0,0,0
+1050000.0,Al Janadriyah,Riyadh, East Riyadh,4,6,240.0,0,0,0,0
+2500000.0,Al Qadisiyah,Riyadh, East Riyadh,5,5,540.0,0,0,0,0
+1200000.0,Ar Rimal,Riyadh, East Riyadh,3,5,268.0,0,0,0,0
+1150000.0,Ar Rimal,Riyadh, East Riyadh,5,6,264.0,0,0,0,0
+1455000.0,Al Qadisiyah,Riyadh, East Riyadh,5,6,334.0,0,1,0,0
+3000000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,3,3,270.0,0,0,0,0
+1180000.0,Tuwaiq,Riyadh, West Riyadh,5,6,375.0,0,0,0,0
+1550000.0,Ar Rimal,Riyadh, East Riyadh,6,7,500.0,0,1,0,0
+1000000.0,Ar Riyadh,Makkah, Jeddah,6,4,450.0,1,0,1,0
+1200000.0,Al Hamadaniyah,Makkah, Jeddah,5,3,450.0,1,0,0,0
+1050000.0,Tuwaiq,Riyadh, West Riyadh,4,7,250.0,0,0,0,0
+950000.0,Ar Rimal,Riyadh, East Riyadh,4,4,216.0,0,0,0,0
+1350000.0,Al Munsiyah,Riyadh, East Riyadh,6,5,240.0,0,0,0,0
+1500000.0,Al Qadisiyah,Riyadh, East Riyadh,4,3,334.0,0,0,0,0
+1450000.0,Az Zomorod,Makkah, Jeddah,6,6,312.0,1,1,0,0
+870000.0,Badr,Riyadh, South Riyadh,3,3,372.0,0,0,0,0
+950000.0,As Salhiyah,Makkah, Jeddah,5,3,300.0,1,0,1,0
+850000.0,Al Wahah,Makkah, Jeddah,5,3,135.0,0,0,1,0
+1050000.0,Al Janadriyah,Riyadh, East Riyadh,5,7,230.0,0,0,0,0
+950.0,As Salhiyah,Makkah, Jeddah,5,4,300.0,1,0,0,0
+1600000.0,Taibah,Makkah, Jeddah,6,7,312.0,0,0,0,1
+1150000.0,Tuwaiq,Riyadh, West Riyadh,4,7,300.0,0,0,0,0
+1765000.0,Al Munsiyah,Riyadh, East Riyadh,4,4,435.0,0,0,0,0
+1250000.0,Az Zomorod,Makkah, Jeddah,6,6,312.0,1,0,0,0
+830000.0,Taibah,Riyadh, South Riyadh,5,6,270.0,0,0,0,0
+1500000.0,Al Qadisiyah,Riyadh, East Riyadh,6,7,334.0,0,1,1,1
+1050000.0,Tuwaiq,Riyadh, West Riyadh,5,7,300.0,0,0,0,0
+2250000.0,Ash Sheraa,Makkah, Jeddah,6,6,340.0,1,1,0,0
+2600000.0,Ash Sheraa,Makkah, Jeddah,5,5,450.0,1,0,0,0
+1100000.0,Dhahrat Namar,Riyadh, West Riyadh,5,5,276.0,0,0,0,0
+800000.0,Al Musa Subdivision,, Khamis Mushayt,7,5,340.0,0,0,0,0
+1400000.0,Az Zomorod,Makkah, Jeddah,7,6,350.0,1,1,0,0
+1100000.0,Al Ghoroub,Riyadh, West Riyadh,5,7,412.0,0,0,0,0
+1300000.0,As Salhiyah,Makkah, Jeddah,5,6,300.0,1,0,1,0
+1350000.0,Al Manarat,Makkah, Jeddah,6,5,275.0,1,1,0,0
+1170000.0,Ar Rimal,Riyadh, East Riyadh,4,5,280.0,0,0,0,0
+4600000.0,Al Malqa,Riyadh, North Riyadh,5,7,600.0,1,1,0,0
+900000.0,Dirab,Riyadh, South Riyadh,3,4,400.0,0,0,0,0
+950000.0,Al Awali,Riyadh, Al Riyadh,5,6,210.0,0,0,0,0
+1350000.0,Abhur Ash Shamaliyah,Makkah, Jeddah,6,6,270.0,1,0,0,1
+1600000.0,Al Arid,Riyadh, North Riyadh,4,6,312.0,1,0,0,0
+1850000.0,Al Amanah,Riyadh, North Riyadh,4,5,375.0,0,0,0,0
